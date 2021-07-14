@@ -1,0 +1,11 @@
+H1,H2,H3,H4{color: navy;}
+body{margin-left: 20px;
+    font-family: "Computer Modern Sans", sans-serif;
+    
+
+
+}
+.comment{
+    border-left: medium solid #AAAAAA;
+    padding-left: 10px;
+}
