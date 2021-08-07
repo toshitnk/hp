@@ -1,7 +1,7 @@
-H1,H2,H3,H4{color: navy;}
+H1,H2,H3,H4{color: indigo;}
 A:link{color:orangered;}
-A:visited{color: orange;}
-A:active{color: orangered;}
+A:visited{color: mediumvioletred;}
+A:active{color: orange;}
 body{margin-left: 20px;
     font-family: "Computer Modern Sans", sans-serif;
 }
