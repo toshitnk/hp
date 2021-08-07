@@ -1,4 +1,6 @@
 H1,H2,H3,H4{color: navy;}
+A:link{color: #ff9d00;}
+A:visited{color: #ffc400}
 body{margin-left: 20px;
     font-family: "Computer Modern Sans", sans-serif;
 }
