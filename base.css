@@ -1,11 +1,14 @@
 H1,H2,H3,H4{color: navy;}
 body{margin-left: 20px;
     font-family: "Computer Modern Sans", sans-serif;
-    
-
-
 }
 .comment{
     border-left: medium solid #AAAAAA;
     padding-left: 10px;
+}
+.date{
+	/* clear:right;
+	text-align:left; */
+	font-weight: bold;
+	border-bottom: medium solid #AAAAAA;
 }
