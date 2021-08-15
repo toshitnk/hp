@@ -15,15 +15,22 @@
         <p class="comment"></p> -->
 
         <h3>銅の比熱の実験データに対してEinsteinモデルを用いてfitting</h3>
-        <figure><img src="einstein_model_copper.png" height="150"><figcaption>銅の比熱．</figcaption></figure>
-        <figure><img src="einstein_logcompare.png" height="150"><figcaption>両対数プロット．低温での破れが見やすい．</figcaption></figure>
+        <table>
+            <tr>
+                <td><figure><img src="einstein_model_copper.png" width="100%" height="100%"><figcaption>銅の比熱．</figcaption></figure></td>
+                <td><figure><img src="einstein_logcompare.png" width="100%" height="100%"><figcaption>両対数プロット．低温での破れが見やすい．</figcaption></figure></td>
+            </tr>
+        </table>
+
+        
+        
         <p class="comment">物性の授業でEinstein modelなどをやって実験の論文が(implicitに)紹介されたので，<a href="https://aip.scitation.org/doi/10.1063/1.555728">ここ</a>からデータを引っ張ってきて，scipy.optimize.leastsqをもちいてフィットした．
         初期値を上手く設定しないといけなくて，そこで苦戦した．やみくもにやるのではなく，パラメータが大体どのくらいになるか確かめるのは人間の仕事でだと反省．
         Einstein modelのやぶれは両対数で見るとよくわかる．
         </p>
 
         <h3>東京都と富山県のCOVID感染者数の比較</h3>
-        <figure><img src="compare_tokyo_toyama_covid.png" height="150"><figcaption>東京都と富山県のCOVID感染者数の比較.最新版.</figcaption></figure>
+        <figure><img src="compare_tokyo_toyama_covid.png" height="50%" width="50%"><figcaption>東京都と富山県のCOVID感染者数の比較.最新版.</figcaption></figure>
         <p class="comment"><a href="https://member.ipmu.jp/yuji.tachikawa/lectures/2020-komaba/">立川さん</a>
             (第一回参照)にならってやってみた<a href="compare_tokyo_toyama_covid07.20.2021.png">[07.28時点]</a>．
 
