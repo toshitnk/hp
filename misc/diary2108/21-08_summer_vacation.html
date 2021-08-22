@@ -57,6 +57,14 @@
             とすると，n個の移動平均がとれる．デフォルトではその値を先頭にして，うしろn個の移動平均だが，
             windowのあとに<code>cemter=True</code>とすると，それを真ん中としての移動平均になる．
         </p>
+        <p>　  統計力学で出てくるstirlingの公式はGamma関数の漸近展開からでてくるものであると知った．せっかくなのでプロットしてみると，意外と\(x\)が小さくてもあってる．
+            <table>
+                <tr>
+                    <td><figure style="text-align: center;"><img src="stirling.png" width="300"><figcaption>\(\Gamma(x+1)\sim n!\)と\(\sqrt{2\pi x}(\pi/e)^n\)の比較．</figcaption></figure></td>
+                    <td><figure style="text-align: center;"><img src="stirling_log.png" width="300"><figcaption>semilogでみてもあってる．</figcaption></figure></td>
+                </tr>
+            </table>
+        </p>
         <p class="date" >2021/08/21</p>
         <p>
             　寝違えで首を痛めてしまった．よくない．
