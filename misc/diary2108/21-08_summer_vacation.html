@@ -55,7 +55,7 @@
         <p>　以前からやろうと思っていたCOVID感染者数の週平均をとってプロットするのをようやくやった．
             pandasのDataframeだと，<code>df.rolling(window=n).mean()</code>
             とすると，n個の移動平均がとれる．デフォルトではその値を先頭にして，うしろn個の移動平均だが，
-            windowのあとに<code>cemter=True</code>とすると，それを真ん中としての移動平均になる．
+            windowのあとに<code>center=True</code>とすると，それを真ん中としての移動平均になる．
         </p>
         <p>　  統計力学で出てくるstirlingの公式はGamma関数の漸近展開からでてくるものであると知った．せっかくなのでプロットしてみると，意外と\(x\)が小さくてもあってる．
             <table>
@@ -78,7 +78,7 @@
         </p>
         <p>
             　SchwartzのQFTを少し読んだ．
-            量子力学の\(\langle p|x\rangle\)と\(\langle|\phi_0(x)|0\rangle\)の対応から\(|x\rangle\sim\phi_0(x)|0\rangle\)の対応が見れるのが面白い．あとは，場の古典論のセクション．
+            量子力学の\(\langle p|x\rangle\)と\(\langle p|\phi_0(x)|0\rangle\)の対応から\(|x\rangle\sim\phi_0(x)|0\rangle\)の対応が見れるのが面白い．あとは，場の古典論のセクション．
         </p>
         <p>
             　最後に特殊関数の勉強もすこし．sageの使い方がいつまでも覚えられない．プロットしながら関数の振る舞いの感覚を身につけたい．
