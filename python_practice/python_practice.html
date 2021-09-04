@@ -14,6 +14,23 @@
         <!-- <p><a href=""></a></p>
         <p class="comment"></p> -->
 
+        <h3>モンテカルロ方による円周率の推定および，JuliaとPythonの速度比較</h3>
+        <p class="comment">
+            　一辺1の正方形のなかに，ランダムに点を打ったとき，点の総数と
+            半径1の1/4円のなかに入っている数の比(かける4)が円周率に近づくだろう
+            という方法．
+            点の数を増やすときの\(\pi\)への収束のしかたを見るとき，for文をまわす時間はJuliaが700msに対し，Pythonが17sで
+            そんなに違うのか，という感じ．時間計測も含めたコードは
+            <a href="https://github.com/toshitnk/physics_python/blob/main/montecalro.py">Pythonはここ</a>，
+            <a href="https://github.com/toshitnk/julia/blob/main/intro_julia/montecalro_pi.jl">Juliaはここ</a>においておく．
+        </p>
+        <table>
+            <tr>
+                <td><figure style="text-align: center;"><img src="../misc/diary2109/montecalro_pi.png" width="300"><figcaption>乱数が円の中に入っているかどうかで判定．\(4 \times \text{in}/\text{total}\)が\(\pi\)の推定値．</figcaption></figure></td>
+                <td><figure style="text-align: center;"><img src="../misc/diary2109/montecalro_pi_estimate.png" width="300"><figcaption>点の数をどんどん増やすと，真の値にどのように近づくか．モンテカルロの誤差は\(\mathcal{O}(1/\sqrt{N})\)らしい</figcaption></figure></td>
+            </tr>
+        </table>
+
         <h3>銅の比熱の実験データに対してEinsteinモデルを用いてfitting</h3>
         <table>
             <tr>
