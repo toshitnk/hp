@@ -74,15 +74,28 @@
         <p>
 
         </p>-->
-        <!-- <p class="date" >2021/09/14</p>
+        <p class="date" >2021/09/14</p>
+        <p>以前Juliaで書いた<a href="https://github.com/toshitnk/julia/blob/main/intro_julia/euler_method.jl">Euler法のコード</a>
+            を<a href="https://github.com/toshitnk/physics_python/blob/main/mechanics/eular_method.py">Pythonで書き直した</a>．
+            この機会に微分方程式の数値解法を勉強して，Euler法，Heun法，Runge-Kutta法をPythonで実装した．コードは<a href="https://github.com/toshitnk/physics_python/tree/main/mechanics">ここ</a>．
+        </p>
         <p>
-
-        </p>-->
+            Juliaは若干特殊で実行時コンパイルをするため，実行時間自体は短いがコンパイルに時間がかかることは以前聞いていたが，
+            その性質のためコマンドラインで<code>$ julia hoge.jl</code>などとするのは，実行するたびに関数などを呼び出すので，
+            お行儀が良くないと知った．REPLで<code>include("hoge.jl")</code>とするとよいらしい．
+        </p>
+        <p>
+            2つ目の有益情報として，最近GitHubがパスワードの代わりにtokenを
+            求めるようになったが，<code>https://ユーザ名:アクセストークン@github.com/ユーザ名/リポジトリ名.git/</code>
+            とURLを設定すると一度の設定でよいらしい．（SSHなるものでもできるらしいが，わからないので，ad hocにはこれでよさそう（？））
+            詳細は<a href="https://devlights.hatenablog.com/entry/2019/04/25/131432">ここ</a>．
+        </p>
         <p class="date" >2021/09/13</p>
         <p>matplotlibでアニメーションをつくるのをやった．
             <a href="https://github.com/toshitnk/physics_python/blob/main/mechanics/launch_a.py">コードはここ．</a>
             二重振り子とかをやりたいと思ってたけど，matplotlibの挙動を理解するので一日潰れた感じ．
         </p>
+        <p>躓いたのは，球が飛んでいく様子を描画したいのに，残像が残ってしまうこと．uさんによって解決した．教訓は<code>plt.show()</code>と<code>plt.savefig</code>を同時にやってはダメ．</p>
         <p class="date" >2021/09/12</p>
         <p>
             TOEICを受けた．あまり良くなかったので，もう一度対策して受けたい．
