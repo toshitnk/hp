@@ -14,8 +14,28 @@
         <!-- <p><a href=""></a></p>
         <p class="comment"></p> -->
 
-        <h3>斜方投射のシミュレーション</h3>
-        <p class="comment">matplotlibでgifをつくった．<a href="https://github.com/toshitnk/physics_python/blob/main/mechanics/launch_a.py">[code]</a></p>
+        <h3>振り子のアニメーション <a href="https://github.com/toshitnk/physics_python/blob/main/mechanics/pendulum.py">[code]</a></h3>
+        <p class="comment">
+            微分方程式を 
+            <code> scipy.integrate.solve_ivp </code> をもちいて数値的に解いて，
+            アニメーションを作った．また，<a href="https://github.com/toshitnk/physics_python/blob/main/mechanics/pendulum_approx.py">微小振動のときにつかえる近似をもちいたときの比較</a>もした．
+        <p>
+        <table>
+            <tr>
+                <td><figure style="text-align: center;"><img src="pendulum.gif" width="300"></figure></td>
+                <td><figure style="text-align: center;"><img src="pendulum_approx.gif" width="300"></figure></td>
+            </tr>
+        </table>
+
+        <h3>微分方程式のsolver <a href="https://github.com/toshitnk/physics_python/blob/main/mechanics/ode.py">[code]</a></h3>
+        <p class="comment">
+            一階常微分方程式の数値計算法として知られる
+            Euler法，Heun法，Runge-Kutta法を実装した．物理の運動方程式は二階だが，一階の連立微分方程式に
+            なおせるので，少しコードをいじれば実装できそうなので課題．
+        </p>
+
+        <h3>斜方投射のシミュレーション <a href="https://github.com/toshitnk/physics_python/blob/main/mechanics/launch_a.py">[code]</a></h3>
+        <p class="comment">matplotlibでgifをつくった．</p>
 
         <h3>モンテカルロ方による円周率の推定および，JuliaとPythonの速度比較</h3>
         <p class="comment">
