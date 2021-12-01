@@ -18,7 +18,7 @@ paginate: true
 
 - この記事では特にmarkdownによるスライド作成のミニマムをお伝えすることを目標にする．
 
-- このスライドはmarkdownで書き，marpでexportしたもので，pdfは[ここ(https://toshitnk.github.io/hp/misc/doc/advent21_1.pdf)]，コードは[ここ](https://github.com/toshitnk/hp/blob/main/misc/doc/advent21_1.md?plain=1)から見ることができます．
+- このスライドはmarkdownで書き，marpでexportしたもので，pdfは[ここ](https://toshitnk.github.io/hp/misc/doc/advent21_1.pdf)，コードは[ここ](https://github.com/toshitnk/hp/blob/main/misc/doc/advent21_1.md?plain=1)から見ることができます．
 
 - 質問，感想，もっといいスライドの書き方やツールの紹介などあれば[GitHub discussions](https://github.com/toshitnk/hp/discussions/5)や，統合のチャンネルなどに書き込んでください．喜びます．
 
