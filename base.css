@@ -3,7 +3,8 @@ A:link{color:orangered;}
 A:visited{color: mediumvioletred;}
 /* A:active{color: orange;} */
 body{margin-left: 20px;
-    font-family: "Computer Modern Sans", sans-serif;
+    /*font-family: "Computer Modern Sans", sans-serif;*/
+    font-family: "Helvetica", sans-serif;
 }
 .comment{
     border-left: medium solid #AAAAAA;
