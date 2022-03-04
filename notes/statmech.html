@@ -2,10 +2,22 @@
     <head>
     <title>statmechnotes</title>
     <link rel = "stylesheet" href = "../base.css">
+    <meta charset="utf-8">    <link rel = "stylesheet" href = "base.css">
     <meta charset="utf-8">
-    <script type="text/javascript" async 
-        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
-    </script>
+	<script>
+		MathJax = {
+		  chtml: {
+		    matchFontHeight: false
+		  },
+		  tex: {
+		    inlineMath: [['$', '$']]
+		  }
+		};
+		</script>
+		<script id="MathJax-script" async
+		  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+
+		</script>
     </head>
 
     <body>
@@ -31,6 +43,15 @@
 			確率を物理に使うにあたって，それまで用いている決定論的な量と
 			確率の関係について，Chebyshev不等式と大数の法則の観点から
 			議論した．と言っても田崎統計力学の受け売りだが．
+		</p>
+		<li>
+				Legendre変換
+				[
+<a href="./statmechdoc/legendre.pdf">pdf</a>
+				]
+		</li>
+		<p>
+			maz, minで定義したLegendre変換をまとめた．具体的な関数を例に挙げ，相転移点で起こる現象を図示した．
 		</p>
 
 		<h2>参考文献</h2>

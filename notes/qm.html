@@ -2,10 +2,21 @@
     <head>
     <title>qmnotes</title>
     <link rel = "stylesheet" href = "../base.css">
+    <meta charset="utf-8">    <link rel = "stylesheet" href = "base.css">
     <meta charset="utf-8">
-    <script type="text/javascript" async 
-        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
-    </script>
+	<script>
+		MathJax = {
+		  chtml: {
+		    matchFontHeight: false
+		  },
+		  tex: {
+		    inlineMath: [['$', '$']]
+		  }
+		};
+		</script>
+		<script id="MathJax-script" async
+		  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+		</script>
     </head>
 
     <body>
@@ -54,7 +65,7 @@
 		</li>
 		<p>
 		数物セミナーの特別講演でstoneの定理をならった．
-		物理の本では$\exp(作用素)$をさも当たり前のように書いていて心配になるが，数学的にも保証されていること，さらに物理量に対してそれが生成する操作になっていることがわかった．
+		物理の本では$\exp(\text{作用素})$をさも当たり前のように書いていて心配になるが，数学的にも保証されていること，さらに物理量に対してそれが生成する操作になっていることがわかった．
 		</p>
 
 	<h2>参考文献など</h2>
