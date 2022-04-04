@@ -1,1 +1,9 @@
 diary/template.html
+*.toc
+*.aux
+*.dvi
+*.fls
+*.log
+*.snm
+*.fdb_latexmk
+*.blg
