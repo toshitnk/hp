@@ -1,0 +1,93 @@
+<html>
+    <head>
+			<title>latex</title>
+        <link rel = "stylesheet" href = "../../base.css">
+        <meta charset="utf-8">
+		<script>
+			MathJax = {
+			  chtml: {
+			    matchFontHeight: false
+			  },
+			  tex: {
+			    inlineMath: [['$', '$']]
+			  }
+			};
+			</script>
+			<script id="MathJax-script" async
+			  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+		</script>
+	</head>
+
+	<body>
+		<h1>$\LaTeX$覚書</h1>
+		<hr>
+		<h2>table of contents</h2>
+		<ul>
+		        <li><a href="#general">LaTeX一般</a></li>
+				<li><a href="#beamer">beamer</a></li>
+				<li><a href="#bibtex">bibtex</a></li>
+				<li><a href="#refs">参考文献 and 有用なリンク</a></li>
+		</ul>
+		<h2 id="general">LaTeX一般</h2>
+		<ul>
+				<li><code>$ ls</code>などと書いたときは<code>$</code>はコマンドラインを表し，<code>ls</code>が打つべきコマンドである．<code>$</code>は入力しない．</li>
+				<li>パッケージなどで困ったら
+						<code>$ texdoc パッケージ名</code>．
+						texdocの使い方がわからなかったら
+						<code>$texdoc texdoc</code>
+						もある．
+				</li>
+		</ul>
+		<h2 id="beamer">beamer</h2>
+		<ul>
+		        <li>
+						LaTeXでスライドを作るdocumentclassである．
+				</li>
+				<li>
+						デフォルトの数式フォントがアレなので，
+						<code>\usepackage{professinalfonts}</code>
+						とする．
+				</li>
+				<li>
+						デフォルトの英語フォントが個人的に嫌いなので，helveticaにする．
+						<br>
+						<code>\usepackage[scaled]{helvet}</code>
+						<br>
+						<code>\renewcommand{\sfdefault}{phv}</code>
+						<br>
+						<code>\renewcommand{\famillydefault}{\sfdefault}</code>
+						<br>
+						とすればよい．
+				</li>
+				<li>
+						デフォルトの日本語フォントが明朝体で，スライドでは見にくいので，ゴシック体にする．
+						<code>\renewcommand{\kanjifamilydefault}{gtdefault}</code>とする．
+				</li>
+				<li>
+						デフォルトで数式が細いので
+						<code>\mathversion{bold}</code>
+						とする．
+				</li>
+		</ul>
+		<h2 id="bibtex">bibtex</h2>
+		<ul>
+		        <li>
+						bibtexは
+						<code>\cite{key}</code>
+						した文献を自動で参考文献に追加してくれるツールである．
+						bibtexはcinii, google scholar, arxiv, inspireなど，
+						あらゆるところから配布されている．
+				</li>
+				<li>
+						hepthの文献に関してはinspireから取ってくるのがよい．keyやprefixがしっかりしているので．
+				</li>
+		</ul>
+		<h2 id="refs">参考文献 and 有用なリンク</h2>
+		<ul>
+				<li><a href="https://paper3510mm.github.io/latex">はたらく双対性 LaTeXについてのメモ</a></li>
+		</ul>
+		<hr>
+		<a href="./../../index.html">home</a>
+	</body>
+</html>
+

@@ -1,3 +1,4 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
 \providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
 \providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
 % \MRhref is called by the amsart/book/proc definition of \MR.
@@ -24,10 +25,26 @@ G.~Borot, R.~Kramer, and Y.~Sch^^c3^^bcler, \emph{Higher airy structures and
   topological recursion for singular spectral curves}, 2020.
   \url{https://arxiv.org/abs/2010.03512}.
 
+\bibitem[BM22]{https://doi.org/10.48550/arxiv.2204.00712}
+A.~Black and T.~Malinovitch, \emph{Scattering for schr^^c3^^b6dinger operators
+  with potentials concentrated near a subspace}, 2022.
+  \url{https://arxiv.org/abs/2204.00712}.
+
 \bibitem[CCGFG22]{Charbonnier2022}
 S.~Charbonnier, N.~K. Chidambaram, E.~Garcia-Failde, and A.~Giacchetto,
   \emph{Shifted witten classes and topological recursion}, 2022.
   \url{https://arxiv.org/abs/2203.16523}.
+
+\bibitem[CEK{\etalchar{+}}22]{https://doi.org/10.48550/arxiv.2204.01199}
+K.~D. Cherednichenko, Y.~Y. Ershova, A.~V. Kiselev, V.~A. Ryzhov, and L.~O.
+  Silva, \emph{Asymptotic analysis of operator families and applications to
+  resonant media}, 2022. \url{https://arxiv.org/abs/2204.01199}.
+
+\bibitem[DFN22]{Dilem:2022xoj}
+B.~B. Dilem, J.~C. Fabris, and J.~A. Nogueira, \emph{{Self-adjoint extensions
+  for a $p^{4}$-corrected Hamiltonian of a particle on a finite interval}},
+  \href{http://arxiv.org/abs/2204.00687}{{\arxivfont arXiv:2204.00687
+  [math-ph]}}.
 
 \bibitem[DGRW20]{Davighi2020}
 J.~Davighi, B.~Gripaios, and O.~Randal-Williams, \emph{Differential cohomology
@@ -50,6 +67,10 @@ J.~E. Gough, \emph{Field calculus: quantum and statistical field theory without
 \bibitem[Hin22]{https://doi.org/10.48550/arxiv.2204.00287}
 B.~Hinrichs, \emph{Existence of ground states in the infrared-critial spin
   boson model}, 2022. \url{https://arxiv.org/abs/2204.00287}.
+
+\bibitem[Iwa22]{https://doi.org/10.48550/arxiv.2204.00744}
+Y.~Iwata, \emph{Recurrence formula for any order evolution equations}, 2022.
+  \url{https://arxiv.org/abs/2204.00744}.
 
 \bibitem[JTD22]{Jezequel2022}
 L.~Jezequel, C.~Tauber, and P.~Delplace, \emph{Estimating bulk and edge
@@ -106,6 +127,10 @@ K.~Takasaki, \emph{Extended lattice gelfand-dickey hierarchy}, 2022.
 \bibitem[vN21]{https://doi.org/10.48550/arxiv.2112.11166}
 J.~van Neerven, \emph{Functional analysis}, 2021.
   \url{https://arxiv.org/abs/2112.11166}.
+
+\bibitem[Wen22]{https://doi.org/10.48550/arxiv.2204.00983}
+C.~Wendlandt, \emph{The restricted quantum double of the yangian}, 2022.
+  \url{https://arxiv.org/abs/2204.00983}.
 
 \bibitem[WT22]{Wang2022a}
 X.-B. Wang and S.-F. Tian, \emph{Inverse scattering transform of the general
