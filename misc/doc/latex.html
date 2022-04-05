@@ -21,27 +21,56 @@
 	<body>
 		<h1>$\LaTeX$覚書</h1>
 		<hr>
-		<h2>table of contents</h2>
+		<div>
+		<h3>table of contents</h3>
 		<ul>
 		        <li><a href="#general">LaTeX一般</a></li>
+				<li><a href="#platex">platex + dvipdfmx</a></li>
 				<li><a href="#beamer">beamer</a></li>
 				<li><a href="#bibtex">bibtex</a></li>
 				<li><a href="#refs">参考文献 and 有用なリンク</a></li>
 		</ul>
+		</div>
 		<h2 id="general">LaTeX一般</h2>
 		<ul>
-				<li><code>$ ls</code>などと書いたときは<code>$</code>はコマンドラインを表し，<code>ls</code>が打つべきコマンドである．<code>$</code>は入力しない．</li>
+				<li><code>$ls</code>などと書いたときは<code>$</code>はコマンドラインを表し，<code>ls</code>が打つべきコマンドである．<code>$</code>は入力しない．</li>
 				<li>パッケージなどで困ったら
-						<code>$ texdoc パッケージ名</code>．
+						<code>$texdoc パッケージ名</code>．
 						texdocの使い方がわからなかったら
 						<code>$texdoc texdoc</code>
 						もある．
+				</li>
+		</ul>
+		<h2 id="platex">platex + dvipdfmx</h2>
+		<ul>
+		        <li>
+						LuaLaTeXやXeLaTeXなど新しいエンジンを使うほうが良いのだろうが，惰性と，コンパイルの速さが魅力的でplatex + dvipdfmxを使っています．
+				</li>
+				<li>
+						私がいつも使っている，platex + dvipdfmx用のテンプレートは
+						<a href="https://gist.github.com/toshitnk/27b542d0394354a3f9155ca754134683#file-latex-tex">gist</a>
+						においてあります．
+				</li>
+				<li>
+						どのエンジンを普段使っているかわからない人は，
+						<a href="https://qiita.com/zr_tex8r/items/a924be192ecea7e6bbe4">こちらの記事</a>
+						からどうぞ．
+				</li>
+				<li>
+						目次の文字部分ではなく，ページ番号にリンクをつけるには
+						<code>\usepackage[linktocpage]{hyperref}</code>
+						とすればよい．
 				</li>
 		</ul>
 		<h2 id="beamer">beamer</h2>
 		<ul>
 		        <li>
 						LaTeXでスライドを作るdocumentclassである．
+				</li>
+				<li>
+						私がいつも使っている，beamerのテンプレートは
+						<a href="https://gist.github.com/toshitnk/27b542d0394354a3f9155ca754134683#file-beamer-tex">gist</a>
+						においてあります．
 				</li>
 				<li>
 						デフォルトの数式フォントがアレなので，
@@ -80,6 +109,19 @@
 				</li>
 				<li>
 						hepthの文献に関してはinspireから取ってくるのがよい．keyやprefixがしっかりしているので．
+				</li>
+				<li>
+						bstファイルは
+						<a href="https://github.com/yujitach/bibtex-styles">ytamsalpha.bst</a>
+						を使わせてもらっている．inspireのbibファイルと相性がよい．
+				</li>
+				<li>
+						bstファイルはplain系とalpha系がある．plain系は参考文献を[n] ($n\in\mathbb{N}$) の形式で，alpha系は[名前の省略形 + 出版年] (Wittenの1994年のなら[Wit94]など) と引用する．情報量が多いので後者のほうがすき．
+				</li>
+				<li>
+						日本語文献はciniiなどから取ってくると，姓名が反転していてややこしい．
+						これは，手でauthor欄のカンマを消すなどするしか，現時点で対応策はもっていない．
+						bstはjalphaをよく使う．
 				</li>
 		</ul>
 		<h2 id="refs">参考文献 and 有用なリンク</h2>
