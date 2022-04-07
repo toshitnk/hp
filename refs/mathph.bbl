@@ -30,6 +30,10 @@ A.~Black and T.~Malinovitch, \emph{Scattering for schr^^c3^^b6dinger operators
   with potentials concentrated near a subspace}, 2022.
   \url{https://arxiv.org/abs/2204.00712}.
 
+\bibitem[Car21]{https://doi.org/10.48550/arxiv.2107.14176}
+V.~Carmona, \emph{New model structures for algebraic quantum field theory},
+  2021. \url{https://arxiv.org/abs/2107.14176}.
+
 \bibitem[CCGFG22]{Charbonnier2022}
 S.~Charbonnier, N.~K. Chidambaram, E.~Garcia-Failde, and A.~Giacchetto,
   \emph{Shifted witten classes and topological recursion}, 2022.
@@ -55,10 +59,20 @@ J.~Davighi, B.~Gripaios, and O.~Randal-Williams, \emph{Differential cohomology
 M.~Duerinckx and C.~Shirley, \emph{Cherenkov radiation with massive bosons and
   quantum friction}, 2022. \url{https://arxiv.org/abs/2204.00557}.
 
+\bibitem[Fau22]{https://doi.org/10.48550/arxiv.2204.01596}
+M.~Faulhuber, \emph{Time-frequency analysis (lecture notes)}, 2022.
+  \url{https://arxiv.org/abs/2204.01596}.
+
 \bibitem[FL22]{Falconi2022}
 M.~Falconi and N.~Leopold, \emph{Derivation of the maxwell-schr^^c3^^b6dinger
   equations: A note on the infrared sector of the radiation field}, 2022.
   \url{https://arxiv.org/abs/2203.16368}.
+
+\bibitem[FSS20]{Fiorenza:2020iax}
+D.~Fiorenza, H.~Sati, and U.~Schreiber, \emph{{Twistorial Cohomotopy implies
+  Green-Schwarz anomaly cancellation}},
+  \href{http://arxiv.org/abs/2008.08544}{{\arxivfont arXiv:2008.08544
+  [hep-th]}}.
 
 \bibitem[Gou22]{Gough2022}
 J.~E. Gough, \emph{Field calculus: quantum and statistical field theory without
@@ -102,6 +116,11 @@ Y.~Miao, \emph{Generalised onsager algebra in quantum lattice models}, 2022.
 \bibitem[Neg17]{Negut2017}
 A.~Negu^^c5^^a3, \emph{Agt relations for sheaves on surfaces}, 2017.
   \url{https://arxiv.org/abs/1711.00390}.
+
+\bibitem[PBHF22]{https://doi.org/10.48550/arxiv.2204.01843}
+E.~Patterson, A.~Baas, T.~Hosgood, and J.~Fairbanks, \emph{A diagrammatic view
+  of differential equations in physics}, 2022.
+  \url{https://arxiv.org/abs/2204.01843}.
 
 \bibitem[Rab20]{https://doi.org/10.48550/arxiv.2008.04953}
 E.~Rabinovich, \emph{Factorization algebras for classical bulk-boundary

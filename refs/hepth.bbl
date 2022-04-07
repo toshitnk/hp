@@ -7,13 +7,19 @@
 \providecommand{\href}[2]{#2}
 \providecommand{\doihref}[2]{\href{#1}{#2}}
 \providecommand{\arxivfont}{\tt}
-\begin{thebibliography}{BMY22}
+\begin{thebibliography}{DCLM22}
 
 \bibitem[ACC22]{Andriot:2022mri}
 D.~Andriot, N.~Carqueville, and N.~Cribiori, \emph{{Looking for structure in
   the cobordism conjecture}},
   \href{http://arxiv.org/abs/2204.00021}{{\arxivfont arXiv:2204.00021
   [hep-th]}}.
+
+\bibitem[ACH22]{Arouca:2022psl}
+R.~Arouca, A.~Cappelli, and T.~H. Hansson, \emph{{Quantum Field Theory
+  Anomalies in Condensed Matter Physics}}, 4 2022.
+  \href{http://arxiv.org/abs/2204.02158}{{\arxivfont arXiv:2204.02158
+  [cond-mat.str-el]}}.
 
 \bibitem[AGT09]{Alday:2009aq}
 L.~F. Alday, D.~Gaiotto, and Y.~Tachikawa, \emph{{Liouville Correlation
@@ -22,9 +28,19 @@ L.~F. Alday, D.~Gaiotto, and Y.~Tachikawa, \emph{{Liouville Correlation
   \textbf{91} (2010) 167--197},
   \href{http://arxiv.org/abs/0906.3219}{{\arxivfont arXiv:0906.3219 [hep-th]}}.
 
+\bibitem[Amb22]{Ambjorn:2022btk}
+J.~Ambjorn, \emph{{Elementary Quantum Geometry}},
+  \href{http://arxiv.org/abs/2204.00859}{{\arxivfont arXiv:2204.00859
+  [hep-th]}}.
+
 \bibitem[AT22]{Ashok:2022thd}
 S.~K. Ashok and J.~Troost, \emph{{Path Integrals on sl(2,R) Orbits}},
   \href{http://arxiv.org/abs/2204.00232}{{\arxivfont arXiv:2204.00232
+  [hep-th]}}.
+
+\bibitem[Bli22]{Bliard:2022xsm}
+G.~Bliard, \emph{{Notes on $n$-point Witten diagrams in AdS${}_2$}},
+  \href{http://arxiv.org/abs/2204.01659}{{\arxivfont arXiv:2204.01659
   [hep-th]}}.
 
 \bibitem[BMY22]{Buoninfante2022d}
@@ -39,12 +55,24 @@ D.~Chicherin and J.~Henn, \emph{{Pentagon Wilson loop with Lagrangian insertion
   \href{http://arxiv.org/abs/2204.00329}{{\arxivfont arXiv:2204.00329
   [hep-th]}}.
 
+\bibitem[CHST22]{Cvetic:2022fnv}
+M.~Cvetic, J.~Halverson, G.~Shiu, and W.~Taylor, \emph{{Snowmass White Paper:
+  String Theory and Particle Physics}},
+  \href{http://arxiv.org/abs/2204.01742}{{\arxivfont arXiv:2204.01742
+  [hep-th]}}.
+
 \bibitem[CKS94]{Cooper:1994eh}
 F.~Cooper, A.~Khare, and U.~Sukhatme, \emph{{Supersymmetry and quantum
   mechanics}}, \doihref{http://dx.doi.org/10.1016/0370-1573(94)00080-M}{Phys.
   Rept. \textbf{251} (1995) 267--385},
   \href{http://arxiv.org/abs/hep-th/9405029}{{\arxivfont
   arXiv:hep-th/9405029}}.
+
+\bibitem[DCLM22]{DelCima:2022wme}
+O.~M. Del~Cima, L.~S. Lima, and E.~S. Miranda, \emph{{The spectrum consistency
+  of fractional quantum Hall effect model}},
+  \href{http://arxiv.org/abs/2204.02534}{{\arxivfont arXiv:2204.02534
+  [hep-th]}}.
 
 \bibitem[EOT10]{Eguchi:2010ej}
 T.~Eguchi, H.~Ooguri, and Y.~Tachikawa, \emph{{Notes on the K3 Surface and the
@@ -53,11 +81,38 @@ T.~Eguchi, H.~Ooguri, and Y.~Tachikawa, \emph{{Notes on the K3 Surface and the
   \textbf{20} (2011) 91--96}, \href{http://arxiv.org/abs/1004.0956}{{\arxivfont
   arXiv:1004.0956 [hep-th]}}.
 
+\bibitem[FS22]{Fosco:2022dhg}
+C.~D. Fosco and F.~A. Schaposnik, \emph{{Induced Chern-Simons term by
+  dimensional reduction}}, \href{http://arxiv.org/abs/2204.01453}{{\arxivfont
+  arXiv:2204.01453 [hep-th]}}.
+
 \bibitem[FU22]{Fujikawa:2022qna}
 K.~Fujikawa and K.~Umetsu, \emph{{A path integral derivation of the equations
   of anomalous Hall effect}},
   \href{http://arxiv.org/abs/2201.01104}{{\arxivfont arXiv:2201.01104
   [cond-mat.str-el]}}.
+
+\bibitem[GJF19]{Gaiotto:2019xmp}
+D.~Gaiotto and T.~Johnson-Freyd, \emph{{Condensations in higher categories}},
+  \href{http://arxiv.org/abs/1905.09566}{{\arxivfont arXiv:1905.09566
+  [math.CT]}}.
+
+\bibitem[GJKM22]{Grewcoe:2022imp}
+C.~J. Grewcoe, L.~Jonke, T.~Kodzoman, and G.~Manolakos, \emph{{From Hopf
+  algebra to braided $L_\infty$-algebra}},
+  \href{http://arxiv.org/abs/2204.01352}{{\arxivfont arXiv:2204.01352
+  [hep-th]}}.
+
+\bibitem[GP22]{Garner:2022its}
+N.~Garner and N.~M. Paquette, \emph{{TASI Lectures on the Mathematics of String
+  Dualities}}, \href{http://arxiv.org/abs/2204.01914}{{\arxivfont
+  arXiv:2204.01914 [hep-th]}}.
+
+\bibitem[KLS22]{Krivonos:2022jwf}
+S.~Krivonos, O.~Lechtenfeld, and A.~Sutulin, \emph{{Integrability of
+  supersymmetric Calogero-Moser models}},
+  \href{http://arxiv.org/abs/2204.02692}{{\arxivfont arXiv:2204.02692
+  [hep-th]}}.
 
 \bibitem[KT11]{Kanno:2011fw}
 H.~Kanno and Y.~Tachikawa, \emph{{Instanton counting with a surface operator
@@ -66,10 +121,37 @@ H.~Kanno and Y.~Tachikawa, \emph{{Instanton counting with a surface operator
   119}, \href{http://arxiv.org/abs/1105.0357}{{\arxivfont arXiv:1105.0357
   [hep-th]}}.
 
+\bibitem[KW14]{Kong:2014qka}
+L.~Kong and X.-G. Wen, \emph{{Braided fusion categories, gravitational
+  anomalies, and the mathematical framework for topological orders in any
+  dimensions}}, \href{http://arxiv.org/abs/1405.5858}{{\arxivfont
+  arXiv:1405.5858 [cond-mat.str-el]}}.
+
+\bibitem[LF20]{LeFloch:2020uop}
+B.~Le~Floch, \emph{{A slow review of the AGT correspondence}},
+  \href{http://arxiv.org/abs/2006.14025}{{\arxivfont arXiv:2006.14025
+  [hep-th]}}.
+
+\bibitem[RS22]{Ramgoolam:2022xfk}
+S.~Ramgoolam and E.~Sharpe, \emph{{Combinatoric topological string theories and
+  group theory algorithms}}, \href{http://arxiv.org/abs/2204.02266}{{\arxivfont
+  arXiv:2204.02266 [hep-th]}}.
+
+\bibitem[RSS22]{Roumpedakis:2022aik}
+K.~Roumpedakis, S.~Seifnashri, and S.-H. Shao, \emph{{Higher Gauging and
+  Non-invertible Condensation Defects}},
+  \href{http://arxiv.org/abs/2204.02407}{{\arxivfont arXiv:2204.02407
+  [hep-th]}}.
+
 \bibitem[Sch98]{Schwarz_1998}
 A.~Schwarz, \emph{Morita equivalence and duality},
   \href{https://doi.org/10.1016%2Fs0550-3213%2898%2900550-1}{Nuclear Physics B
   \textbf{534} (1998) 720--738}.
+
+\bibitem[Sto22]{Stoica:2022xvj}
+O.~C. Stoica, \emph{{The Problem of Irreversible Change in Quantum Mechanics}},
+  \href{http://arxiv.org/abs/2204.02270}{{\arxivfont arXiv:2204.02270
+  [quant-ph]}}.
 
 \bibitem[SW94a]{Seiberg:1994rs}
 N.~Seiberg and E.~Witten, \emph{{Electric - magnetic duality, monopole
