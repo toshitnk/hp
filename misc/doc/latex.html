@@ -25,9 +25,28 @@
 		<h3>table of contents</h3>
 		<ul>
 		        <li><a href="#general">LaTeX一般</a></li>
+				<ul>
+						<li>texdoc</li>
+						<li>エディタ</li>
+						<li>latexmk</li>
+						<li>エンジン</li>
+				</ul>
 				<li><a href="#platex">platex + dvipdfmx</a></li>
+				<ul>
+				        <li>テンプレート</li>
+						<li>リンク</li>
+				</ul>
 				<li><a href="#beamer">beamer</a></li>
+				<ul>
+	
+						<li>デフォルトのアレなフォント</li>
+				</ul>
 				<li><a href="#bibtex">bibtex</a></li>
+				<ul>
+				        <li>bstファイル</li>
+						<li>文献管理</li>
+				</ul>
+
 				<li><a href="#refs">参考文献 and 有用なリンク</a></li>
 		</ul>
 		</div>
@@ -56,7 +75,12 @@
 						<code>$latexmk -pvc texfile.tex</code>
 						のオプションで，保存するたびにコンパイルを実行することができる．
 				</li>
-		</ul>
+					<li>
+						どのエンジンを普段使っているかわからない人は，
+						<a href="https://qiita.com/zr_tex8r/items/a924be192ecea7e6bbe4">こちらの記事</a>
+						からどうぞ．
+				</li>
+	</ul>
 		<h2 id="platex">platex + dvipdfmx</h2>
 		<ul>
 		        <li>
@@ -68,14 +92,27 @@
 						においてあります．
 				</li>
 				<li>
-						どのエンジンを普段使っているかわからない人は，
-						<a href="https://qiita.com/zr_tex8r/items/a924be192ecea7e6bbe4">こちらの記事</a>
-						からどうぞ．
-				</li>
-				<li>
 						目次の文字部分ではなく，ページ番号にリンクをつけるには
 						<code>\usepackage[linktocpage]{hyperref}</code>
 						とすればよい．
+				</li>
+				<li>
+						リンクの色は，hyperref, xcolor, pxjahyperなどを読み込んだ後，
+						<pre>
+						<code>
+\hypersetup{
+	colorlinks=true,
+	citecolor=blue,
+	linkcolor=teal,
+	urlcolor=orange,
+}
+						</code>
+						</pre>
+						としている．これは完全に趣味．
+				</li>
+				<li>
+						見出しなどのアルファベットのフォントはデフォルトではサンセリフ体だが，セリフにしている．具体的に，
+						<code>\renewcommand{\headfont}{\bfseries}</code>とすればよい．
 				</li>
 		</ul>
 		<h2 id="beamer">beamer</h2>
@@ -139,6 +176,15 @@
 						これは，手でauthor欄のカンマを消すなどするしか，現時点で対応策はもっていない．
 						bstはjalphaをよく使う．
 				</li>
+				<li>
+						<a href="https://www.jabref.org/">JabRef</a>などを使うと，bibtexで文献管理ができる．気になった論文があれば，出版社やページからbibtexをダウンロードやコピーしてきて，JabRefにペーストし，気になった点などをコメント欄に書くことができる．
+						後にそれらのキーワードで検索をかければ文献を見つけことができる．
+				</li>
+				<li>
+						本も大きな図書館や
+						<a href="https://ci.nii.ac.jp/books/">cinii books</a>
+						からbibtexファイルを入手することができる．しかし，日本語文献は姓名が逆になっている可能性がある (ciniiはそう) ので，修正する必要がある．
+				</li>
 		</ul>
 		<h2 id="refs">参考文献 and 有用なリンク</h2>
 		<ul>
@@ -147,7 +193,7 @@
 </div></li>
 				<li><a href="https://texwiki.texjp.org/">TeX wiki</a></li>
 				<li><a href="https://ctan.org/?lang=en">CTAN</a></li>
-				<li><a href="https://paper3510mm.github.io/latex">はたらく双対性 LaTeXについてのメモ</a></li>
+				<li>はたらく双対性. <a href="https://paper3510mm.github.io/latex">LaTeXについてのメモ</a></li>
 				<li>立川裕二．
 						<a href="https://member.ipmu.jp/yuji.tachikawa/misc/dron2.html">(修士/博士/普通の)論文執筆の際にお願いしたいこと、その二</a>
 				</li>
@@ -156,6 +202,9 @@
 				</li>
 				<li>
 						<a href="https://deic.uab.cat/~iblanes/beamer_gallery/">Beamer theme gallery</a>
+				</li>
+				<li>
+						<a href="https://asouqi.github.io/bibtex-converter/">Online Bibtex Converter</a>. web上でbibtexを様々な形式に変換することができる．
 				</li>
 
 		</ul>
