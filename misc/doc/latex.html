@@ -35,6 +35,7 @@
 				<ul>
 				        <li>テンプレート</li>
 						<li>リンク</li>
+						<li>数式</li>
 				</ul>
 				<li><a href="#beamer">beamer</a></li>
 				<ul>
@@ -113,6 +114,30 @@
 				<li>
 						見出しなどのアルファベットのフォントはデフォルトではサンセリフ体だが，セリフにしている．具体的に，
 						<code>\renewcommand{\headfont}{\bfseries}</code>とすればよい．
+				</li>
+				<li>
+						定義記号は$\equiv$ではなく$:=$をつかう．新しい左辺の量をすでに定義された右辺の量で定義するという意味である．右辺を左辺で定義したいときには$:=$を使う．$\equiv$は「恒等的に等しい」の意で使いたい．なお，MathJaxが対応していなかったため
+						<code>:=</code>
+						と入力しているが，本来は
+						<code>\coloneqq</code>
+						および
+						<code>\eqqcolon</code>
+						が正しい．
+				</li>
+				<li>
+						数式番号は基本すべての式につける．指摘したり，議論したりするときに，数式番号で指定できると楽だからである．しかし，引用しない式は番号を振らないと指摘されたこともあるので，微妙である．
+				</li>
+				<li>
+						内積，期待値などで用いる$\langle$, $\rangle$は不等号&lt;, &gt;ではなく
+						<code>\langle</code>, 
+						<code>\rangle</code>
+						と入力する．
+				</li>
+				<li>
+						演算記号 (e.g., 定義域のDom, 留数のRes) を定義したいときは，
+						newcommandではなく，DeclareMathOperatorを使う．演算子Opeを定義したいときは
+						<code>\DeclareMathOperator{\Ope}{Ope}</code>
+						と書く．後ろの空白が若干ちがう．
 				</li>
 		</ul>
 		<h2 id="beamer">beamer</h2>
