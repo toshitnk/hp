@@ -1,4 +1,14 @@
-\begin{thebibliography}{堀田21}
+\begin{thebibliography}{Howa10}
+
+\bibitem[Howa10]{BB03663366}
+Howard Georgi, 九後汰一郎.
+\newblock 物理学におけるリー代数 : アイソスピンから統一理論へ.
+\newblock 物理学叢書 / 小谷正雄 [ほか] 編, No. 107. 吉岡書店, 2010.
+
+\bibitem[佐藤92]{BN08491535}
+佐藤光.
+\newblock 物理数学特論群と物理.
+\newblock パリティ物理学コース / 牧二郎 [ほか] 編. 丸善, 1992.
 
 \bibitem[砂川91]{BN0611143X}
 砂川重信.
@@ -24,6 +34,11 @@
 清水明.
 \newblock 量子論の基礎 : その本質のやさしい理解のために.
 \newblock 新物理学ライブラリ, 別巻2. サイエンス社, 新版, 2004.
+
+\bibitem[雪江10]{BB04052517}
+雪江明彦.
+\newblock 群論入門.
+\newblock 代数学 / 雪江明彦著, No.~1. 日本評論社, 2010.
 
 \bibitem[池田22]{BC13565134}
 池田岳.

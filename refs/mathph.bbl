@@ -20,6 +20,17 @@ A.~Bols and C.~Cedzich, \emph{Absolutely continuous edge spectrum of
   topological insulators with an odd time-reversal symmetry}, 2022.
   \url{https://arxiv.org/abs/2203.05474}.
 
+\bibitem[BDRFJ22]{Bachmann:2022bhx}
+S.~Bachmann, W.~De~Roeck, M.~Fraas, and T.~Jappens, \emph{{A classification of
+  $G$-charge Thouless pumps in 1D invertible states}},
+  \href{http://arxiv.org/abs/2204.03763}{{\arxivfont arXiv:2204.03763
+  [math-ph]}}.
+
+\bibitem[BGK{\etalchar{+}}22]{https://doi.org/10.48550/arxiv.2204.02745}
+G.~Baverez, C.~Guillarmou, A.~Kupiainen, R.~Rhodes, and V.~Vargas, \emph{The
+  virasoro structure and the scattering matrix for liouville conformal field
+  theory}, 2022. \url{https://arxiv.org/abs/2204.02745}.
+
 \bibitem[BKS20]{Borot2020}
 G.~Borot, R.~Kramer, and Y.~Sch^^c3^^bcler, \emph{Higher airy structures and
   topological recursion for singular spectral curves}, 2020.
@@ -44,6 +55,10 @@ K.~D. Cherednichenko, Y.~Y. Ershova, A.~V. Kiselev, V.~A. Ryzhov, and L.~O.
   Silva, \emph{Asymptotic analysis of operator families and applications to
   resonant media}, 2022. \url{https://arxiv.org/abs/2204.01199}.
 
+\bibitem[d'A22]{https://doi.org/10.48550/arxiv.2204.03483}
+L.~P. d'Andecy, \emph{Fusion for the yang-baxter equation and the braid group},
+  2022. \url{https://arxiv.org/abs/2204.03483}.
+
 \bibitem[DFN22]{Dilem:2022xoj}
 B.~B. Dilem, J.~C. Fabris, and J.~A. Nogueira, \emph{{Self-adjoint extensions
   for a $p^{4}$-corrected Hamiltonian of a particle on a finite interval}},
@@ -59,6 +74,15 @@ J.~Davighi, B.~Gripaios, and O.~Randal-Williams, \emph{Differential cohomology
 M.~Duerinckx and C.~Shirley, \emph{Cherenkov radiation with massive bosons and
   quantum friction}, 2022. \url{https://arxiv.org/abs/2204.00557}.
 
+\bibitem[DT21]{https://doi.org/10.48550/arxiv.2112.12354}
+X.~Ding and T.~Trogdon, \emph{A riemann--hilbert approach to the perturbation
+  theory for orthogonal polynomials: Applications to numerical linear algebra
+  and random matrix theory}, 2021. \url{https://arxiv.org/abs/2112.12354}.
+
+\bibitem[EG22]{https://doi.org/10.48550/arxiv.2204.03702}
+C.~Elliott and O.~Gwilliam, \emph{Framed $\mathbb e_n$-algebras from quantum
+  field theory}, 2022. \url{https://arxiv.org/abs/2204.03702}.
+
 \bibitem[Fau22]{https://doi.org/10.48550/arxiv.2204.01596}
 M.~Faulhuber, \emph{Time-frequency analysis (lecture notes)}, 2022.
   \url{https://arxiv.org/abs/2204.01596}.
@@ -67,6 +91,10 @@ M.~Faulhuber, \emph{Time-frequency analysis (lecture notes)}, 2022.
 M.~Falconi and N.~Leopold, \emph{Derivation of the maxwell-schr^^c3^^b6dinger
   equations: A note on the infrared sector of the radiation field}, 2022.
   \url{https://arxiv.org/abs/2203.16368}.
+
+\bibitem[For22]{https://doi.org/10.48550/arxiv.2204.03303}
+P.~J. Forrester, \emph{A review of exact results for fluctuation formulas in
+  random matrix theory}, 2022. \url{https://arxiv.org/abs/2204.03303}.
 
 \bibitem[FSS20]{Fiorenza:2020iax}
 D.~Fiorenza, H.~Sati, and U.~Schreiber, \emph{{Twistorial Cohomotopy implies
