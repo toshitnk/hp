@@ -1,0 +1,89 @@
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\providecommand{\doihref}[2]{\href{#1}{#2}}
+\providecommand{\arxivfont}{\tt}
+\begin{thebibliography}{SRFL08}
+
+\bibitem[CW22]{Chevalier_2022}
+C.~Chevalier and B.~M. Wong, \emph{{HADOKEN}: An open-source software package
+  for predicting electron confinement effects in various nanowire geometries
+  and configurations},
+  \href{https://doi.org/10.1016%2Fj.cpc.2022.108299}{Computer Physics
+  Communications \textbf{274} (2022) 108299}.
+
+\bibitem[Kit09]{Kitaev:2009mg}
+A.~Kitaev, \emph{{Periodic table for topological insulators and
+  superconductors}}, \doihref{http://dx.doi.org/10.1063/1.3149495}{AIP Conf.
+  Proc. \textbf{1134} (2009) 22--30},
+  \href{http://arxiv.org/abs/0901.2686}{{\arxivfont arXiv:0901.2686
+  [cond-mat.mes-hall]}}.
+
+\bibitem[KW41]{PhysRev.60.252}
+H.~A. Kramers and G.~H. Wannier, \emph{Statistics of the two-dimensional
+  ferromagnet. part i},
+  \href{https://link.aps.org/doi/10.1103/PhysRev.60.252}{Phys. Rev. \textbf{60}
+  (1941) 252--262}.
+
+\bibitem[LOZ22]{Li:2022jbf}
+L.~Li, M.~Oshikawa, and Y.~Zheng, \emph{{Symmetry Protected Topological
+  Criticality: Decorated Defect Construction, Signatures and Stability}},
+  \href{http://arxiv.org/abs/2204.03131}{{\arxivfont arXiv:2204.03131
+  [cond-mat.str-el]}}.
+
+\bibitem[McG22]{McGreevy:2022oyu}
+J.~McGreevy, \emph{{Generalized Symmetries in Condensed Matter}},
+  \href{http://arxiv.org/abs/2204.03045}{{\arxivfont arXiv:2204.03045
+  [cond-mat.str-el]}}.
+
+\bibitem[MRS20]{https://doi.org/10.48550/arxiv.2009.09208}
+G.~B. Mbeng, A.~Russomanno, and G.~E. Santoro,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2009.09208}{\emph{The quantum ising
+  chain for beginners}}, 2020. \url{https://arxiv.org/abs/2009.09208}.
+
+\bibitem[PV00]{Pelissetto:2000ek}
+A.~Pelissetto and E.~Vicari, \emph{{Critical phenomena and renormalization
+  group theory}},
+  \doihref{http://dx.doi.org/10.1016/S0370-1573(02)00219-3}{Phys. Rept.
+  \textbf{368} (2002) 549--727},
+  \href{http://arxiv.org/abs/cond-mat/0012164}{{\arxivfont
+  arXiv:cond-mat/0012164}}.
+
+\bibitem[Shi19]{Shiraishi_2019}
+N.~Shiraishi, \emph{Proof of the absence of local conserved quantities in the
+  {XYZ} chain with a magnetic field},
+  \href{https://doi.org/10.1209%2F0295-5075%2F128%2F17002}{{EPL} (Europhysics
+  Letters) \textbf{128} (2019) 17002}.
+
+\bibitem[SJTS22]{Samajdar:2022mtt}
+R.~Samajdar, D.~G. Joshi, Y.~Teng, and S.~Sachdev, \emph{{Emergent
+  $\mathbb{Z}_2$ gauge theories and topological excitations in Rydberg atom
+  arrays}}, \href{http://arxiv.org/abs/2204.00632}{{\arxivfont arXiv:2204.00632
+  [cond-mat.quant-gas]}}.
+
+\bibitem[SRFL08]{Schnyder:2008tya}
+A.~Schnyder, S.~Ryu, A.~Furusaki, and A.~Ludwig, \emph{{Classification of
+  topological insulators and superconductors in three spatial dimensions}},
+  \doihref{http://dx.doi.org/10.1103/PhysRevB.78.195125}{Phys. Rev. B
+  \textbf{78} (2008) 195125}, \href{http://arxiv.org/abs/0803.2786}{{\arxivfont
+  arXiv:0803.2786 [cond-mat.mes-hall]}}.
+
+\bibitem[Suz0a]{10.1143/PTP.56.1454}
+M.~Suzuki, \emph{{Relationship between d-Dimensional Quantal Spin Systems and
+  (d+1)-Dimensional Ising Systems: Equivalence, Critical Exponents and
+  Systematic Approximants of the Partition Function and Spin Correlations}},
+  \href{https://doi.org/10.1143/PTP.56.1454}{Progress of Theoretical Physics
+  \textbf{56} (1976) 1454--1469},
+  \href{http://arxiv.org/abs/https://academic.oup.com/ptp/article-pdf/56/5/1454/5264429/56-5-1454.pdf}{{\arxivfont
+  https://academic.oup.com/ptp/article-pdf/56/5/1454/5264429/56-5-1454.pdf}}.
+
+\bibitem[Tas22]{Tasaki:2022gka}
+H.~Tasaki, \emph{{The Lieb-Schultz-Mattis Theorem: A Topological Point of
+  View}}, \href{http://arxiv.org/abs/2202.06243}{{\arxivfont arXiv:2202.06243
+  [cond-mat.stat-mech]}}.
+
+\end{thebibliography}

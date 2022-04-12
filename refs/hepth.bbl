@@ -45,6 +45,12 @@ S.~K. Ashok and J.~Troost, \emph{{Path Integrals on sl(2,R) Orbits}},
   \href{http://arxiv.org/abs/2204.00232}{{\arxivfont arXiv:2204.00232
   [hep-th]}}.
 
+\bibitem[BEHK22]{https://doi.org/10.48550/arxiv.2204.04761}
+B.~Berche, T.~Ellis, Y.~Holovatch, and R.~Kenna,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2204.04761}{\emph{Phase transitions
+  above the upper critical dimension}}, 2022.
+  \url{https://arxiv.org/abs/2204.04761}.
+
 \bibitem[Bli22]{Bliard:2022xsm}
 G.~Bliard, \emph{{Notes on $n$-point Witten diagrams in AdS${}_2$}},
   \href{http://arxiv.org/abs/2204.01659}{{\arxivfont arXiv:2204.01659
@@ -110,6 +116,11 @@ N.~Garner, \emph{{Vertex Operator Algebras and Topologically Twisted
   \href{http://arxiv.org/abs/2204.02997}{{\arxivfont arXiv:2204.02997
   [hep-th]}}.
 
+\bibitem[GFRT20]{Garcia-Fernandez:2020awc}
+M.~Garcia-Fernandez, R.~Rubio, and C.~Tipler, \emph{{Gauge theory for string
+  algebroids}}, \href{http://arxiv.org/abs/2004.11399}{{\arxivfont
+  arXiv:2004.11399 [math.DG]}}.
+
 \bibitem[GJF19]{Gaiotto:2019xmp}
 D.~Gaiotto and T.~Johnson-Freyd, \emph{{Condensations in higher categories}},
   \href{http://arxiv.org/abs/1905.09566}{{\arxivfont arXiv:1905.09566
@@ -130,6 +141,14 @@ N.~Garner and N.~M. Paquette, \emph{{TASI Lectures on the Mathematics of String
 H.~S. Hannesdottir and S.~Mizera, \emph{{What is the $i\varepsilon$ for the
   S-matrix?}}, \href{http://arxiv.org/abs/2204.02988}{{\arxivfont
   arXiv:2204.02988 [hep-th]}}.
+
+\bibitem[HMA21]{Hajibarat:2021ngf}
+A.~Hajibarat, B.~Mirza, and A.~Azizallahi, \emph{{\ensuremath{\gamma}-Metrics
+  in higher dimensions}},
+  \doihref{http://dx.doi.org/10.1016/j.nuclphysb.2022.115739}{Nucl. Phys. B
+  \textbf{978} (2022) 115739},
+  \href{http://arxiv.org/abs/2110.06667}{{\arxivfont arXiv:2110.06667
+  [gr-qc]}}.
 
 \bibitem[ISSU22]{Inoue:2022nwu}
 T.~Inoue, M.~Sakamoto, M.~Sato, and I.~Ueba, \emph{{Correspondence of
