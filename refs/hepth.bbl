@@ -8,7 +8,7 @@
 \providecommand{\href}[2]{#2}
 \providecommand{\doihref}[2]{\href{#1}{#2}}
 \providecommand{\arxivfont}{\tt}
-\begin{thebibliography}{DCLM22}
+\begin{thebibliography}{BBSNT22}
 
 \bibitem[ACC22]{Andriot:2022mri}
 D.~Andriot, N.~Carqueville, and N.~Cribiori, \emph{{Looking for structure in
@@ -45,11 +45,24 @@ S.~K. Ashok and J.~Troost, \emph{{Path Integrals on sl(2,R) Orbits}},
   \href{http://arxiv.org/abs/2204.00232}{{\arxivfont arXiv:2204.00232
   [hep-th]}}.
 
+\bibitem[BBSNT22]{Bhardwaj:2022yxj}
+L.~Bhardwaj, L.~Bottini, S.~Schafer-Nameki, and A.~Tiwari,
+  \emph{{Non-Invertible Higher-Categorical Symmetries}},
+  \href{http://arxiv.org/abs/2204.06564}{{\arxivfont arXiv:2204.06564
+  [hep-th]}}.
+
 \bibitem[BEHK22]{https://doi.org/10.48550/arxiv.2204.04761}
 B.~Berche, T.~Ellis, Y.~Holovatch, and R.~Kenna,
   \doihref{http://dx.doi.org/10.48550/ARXIV.2204.04761}{\emph{Phase transitions
   above the upper critical dimension}}, 2022.
   \url{https://arxiv.org/abs/2204.04761}.
+
+\bibitem[BK06]{Bellucci:2006ts}
+S.~Bellucci and S.~Krivonos, \emph{{Supersymmetric mechanics in superspace}},
+  \doihref{http://dx.doi.org/10.1007/3-540-33314-2_2}{Lect. Notes Phys.
+  \textbf{698} (2006) 49--96},
+  \href{http://arxiv.org/abs/hep-th/0602199}{{\arxivfont
+  arXiv:hep-th/0602199}}.
 
 \bibitem[Bli22]{Bliard:2022xsm}
 G.~Bliard, \emph{{Notes on $n$-point Witten diagrams in AdS${}_2$}},
@@ -87,12 +100,26 @@ O.~M. Del~Cima, L.~S. Lima, and E.~S. Miranda, \emph{{The spectrum consistency
   \href{http://arxiv.org/abs/2204.02534}{{\arxivfont arXiv:2204.02534
   [hep-th]}}.
 
+\bibitem[EFSS22]{Ebert:2022xfh}
+S.~Ebert, C.~Ferko, H.-Y. Sun, and Z.~Sun, \emph{{$T \overline{T}$ Deformations
+  of Supersymmetric Quantum Mechanics}},
+  \href{http://arxiv.org/abs/2204.05897}{{\arxivfont arXiv:2204.05897
+  [hep-th]}}.
+
 \bibitem[EOT10]{Eguchi:2010ej}
 T.~Eguchi, H.~Ooguri, and Y.~Tachikawa, \emph{{Notes on the K3 Surface and the
   Mathieu group $M_{24}$}},
   \doihref{http://dx.doi.org/10.1080/10586458.2011.544585}{Exper. Math.
   \textbf{20} (2011) 91--96}, \href{http://arxiv.org/abs/1004.0956}{{\arxivfont
   arXiv:1004.0956 [hep-th]}}.
+
+\bibitem[FGR97]{Frohlich:1995mr}
+J.~Frohlich, O.~Grandjean, and A.~Recknagel, \emph{{Supersymmetric quantum
+  theory, noncommutative geometry, and gravitation}}, {NATO Advanced Study
+  Institute: Les Houches Summer School on Theoretical Physics, Session 64:
+  Quantum Symmetries}, 8 1995, pp.~221--385.
+  \href{http://arxiv.org/abs/hep-th/9706132}{{\arxivfont
+  arXiv:hep-th/9706132}}.
 
 \bibitem[FS22]{Fosco:2022dhg}
 C.~D. Fosco and F.~A. Schaposnik, \emph{{Induced Chern-Simons term by
@@ -132,6 +159,12 @@ C.~J. Grewcoe, L.~Jonke, T.~Kodzoman, and G.~Manolakos, \emph{{From Hopf
   \href{http://arxiv.org/abs/2204.01352}{{\arxivfont arXiv:2204.01352
   [hep-th]}}.
 
+\bibitem[GMW15]{Gaiotto:2015aoa}
+D.~Gaiotto, G.~W. Moore, and E.~Witten, \emph{{Algebra of the Infrared: String
+  Field Theoretic Structures in Massive ${\cal N}=(2,2)$ Field Theory In Two
+  Dimensions}}, \href{http://arxiv.org/abs/1506.04087}{{\arxivfont
+  arXiv:1506.04087 [hep-th]}}.
+
 \bibitem[GP22]{Garner:2022its}
 N.~Garner and N.~M. Paquette, \emph{{TASI Lectures on the Mathematics of String
   Dualities}}, \href{http://arxiv.org/abs/2204.01914}{{\arxivfont
@@ -150,11 +183,30 @@ A.~Hajibarat, B.~Mirza, and A.~Azizallahi, \emph{{\ensuremath{\gamma}-Metrics
   \href{http://arxiv.org/abs/2110.06667}{{\arxivfont arXiv:2110.06667
   [gr-qc]}}.
 
+\bibitem[HMW21]{Hersent:2021sbt}
+K.~Hersent, P.~Mathieu, and J.-C. Wallet, \emph{{Algebraic structures in
+  \ensuremath{\kappa}-Poincar\'e invariant gauge theories}},
+  \doihref{http://dx.doi.org/10.1142/S0219887822500785}{Int. J. Geom. Meth.
+  Mod. Phys. \textbf{19} (2022) 2250078},
+  \href{http://arxiv.org/abs/2110.10763}{{\arxivfont arXiv:2110.10763
+  [hep-th]}}.
+
+\bibitem[HS22]{Huxford:2022wih}
+J.~Huxford and S.~H. Simon, \emph{{Excitations in the Higher Lattice Gauge
+  Theory Model for Topological Phases I: Overview}},
+  \href{http://arxiv.org/abs/2202.08294}{{\arxivfont arXiv:2202.08294
+  [cond-mat.str-el]}}.
+
 \bibitem[ISSU22]{Inoue:2022nwu}
 T.~Inoue, M.~Sakamoto, M.~Sato, and I.~Ueba, \emph{{Correspondence of
   topological classification between quantum graph extra dimension and
   topological matter}}, \href{http://arxiv.org/abs/2204.03834}{{\arxivfont
   arXiv:2204.03834 [hep-th]}}.
+
+\bibitem[Kay22]{Kay:2022zjm}
+B.~S. Kay, \emph{{A product picture for quantum electrodynamics}},
+  \href{http://arxiv.org/abs/2204.01177}{{\arxivfont arXiv:2204.01177
+  [hep-th]}}.
 
 \bibitem[KLS22]{Krivonos:2022jwf}
 S.~Krivonos, O.~Lechtenfeld, and A.~Sutulin, \emph{{Integrability of
@@ -180,6 +232,16 @@ B.~Le~Floch, \emph{{A slow review of the AGT correspondence}},
   \href{http://arxiv.org/abs/2006.14025}{{\arxivfont arXiv:2006.14025
   [hep-th]}}.
 
+\bibitem[LL22]{Losev:2022tzr}
+A.~Losev and V.~Lysov, \emph{{Tropical Mirror}},
+  \href{http://arxiv.org/abs/2204.06896}{{\arxivfont arXiv:2204.06896
+  [hep-th]}}.
+
+\bibitem[Obu22]{Obukhov:2022zlu}
+V.~V. Obukhov, \emph{{Maxwell's equations in homogeneous spaces for admissible
+  electromagnetic fields}}, \href{http://arxiv.org/abs/2204.07031}{{\arxivfont
+  arXiv:2204.07031 [gr-qc]}}.
+
 \bibitem[RS22]{Ramgoolam:2022xfk}
 S.~Ramgoolam and E.~Sharpe, \emph{{Combinatoric topological string theories and
   group theory algorithms}}, \href{http://arxiv.org/abs/2204.02266}{{\arxivfont
@@ -195,6 +257,12 @@ K.~Roumpedakis, S.~Seifnashri, and S.-H. Shao, \emph{{Higher Gauging and
 A.~Schwarz, \emph{Morita equivalence and duality},
   \href{https://doi.org/10.1016%2Fs0550-3213%2898%2900550-1}{Nuclear Physics B
   \textbf{534} (1998) 720--738}.
+
+\bibitem[Sil20]{Silva:2020lnr}
+C.~Silva, \emph{{Spacetime from quantum information: spin networks and the
+  cosmological constant in the $AdS/CFT$ correspondence}},
+  \href{http://arxiv.org/abs/2009.07843}{{\arxivfont arXiv:2009.07843
+  [gr-qc]}}.
 
 \bibitem[Sto22]{Stoica:2022xvj}
 O.~C. Stoica, \emph{{The Problem of Irreversible Change in Quantum Mechanics}},
@@ -226,6 +294,16 @@ Y.~Tachikawa, \doihref{http://dx.doi.org/10.48550/ARXIV.1108.5632}{\emph{A
 \bysame, \doihref{http://dx.doi.org/10.1007/978-3-319-08822-8}{\emph{{N=2
   supersymmetric dynamics for pedestrians}}}, 12 2013.
   \href{http://arxiv.org/abs/1312.2684}{{\arxivfont arXiv:1312.2684 [hep-th]}}.
+
+\bibitem[TW21]{Tian:2021cif}
+J.~Tian and Y.-N. Wang, \emph{{5D and 6D SCFTs from $\mathbb{C}^3$ orbifolds}},
+  \href{http://arxiv.org/abs/2110.15129}{{\arxivfont arXiv:2110.15129
+  [hep-th]}}.
+
+\bibitem[TY21]{Trampetic:2021awu}
+J.~Trampeti\'c and J.~You, \emph{{Seiberg-Witten maps and scattering amplitudes
+  of NCQED}}, \href{http://arxiv.org/abs/2111.04154}{{\arxivfont
+  arXiv:2111.04154 [hep-th]}}.
 
 \bibitem[VW94]{Vafa1994}
 C.~Vafa and E.~Witten, \emph{{A Strong coupling test of S duality}},

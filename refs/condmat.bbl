@@ -16,6 +16,25 @@ C.~Chevalier and B.~M. Wong, \emph{{HADOKEN}: An open-source software package
   \href{https://doi.org/10.1016%2Fj.cpc.2022.108299}{Computer Physics
   Communications \textbf{274} (2022) 108299}.
 
+\bibitem[HNT20]{Hsieh:2020uwb}
+C.-T. Hsieh, Y.~Nakayama, and Y.~Tachikawa, \emph{{Fermionic minimal models}},
+  \doihref{http://dx.doi.org/10.1103/PhysRevLett.126.195701}{Phys. Rev. Lett.
+  \textbf{126} (2021) 195701},
+  \href{http://arxiv.org/abs/2002.12283}{{\arxivfont arXiv:2002.12283
+  [cond-mat.str-el]}}.
+
+\bibitem[HS22a]{Huxford:2022wih}
+J.~Huxford and S.~H. Simon, \emph{{Excitations in the Higher Lattice Gauge
+  Theory Model for Topological Phases I: Overview}},
+  \href{http://arxiv.org/abs/2202.08294}{{\arxivfont arXiv:2202.08294
+  [cond-mat.str-el]}}.
+
+\bibitem[HS22b]{Huxford:2022mgr}
+\bysame, \emph{{Excitations in the Higher Lattice Gauge Theory Model for
+  Topological Phases II: the 2+1d Case}},
+  \href{http://arxiv.org/abs/2204.05341}{{\arxivfont arXiv:2204.05341
+  [cond-mat.str-el]}}.
+
 \bibitem[Kit09]{Kitaev:2009mg}
 A.~Kitaev, \emph{{Periodic table for topological insulators and
   superconductors}}, \doihref{http://dx.doi.org/10.1063/1.3149495}{AIP Conf.
@@ -45,6 +64,12 @@ G.~B. Mbeng, A.~Russomanno, and G.~E. Santoro,
   \doihref{http://dx.doi.org/10.48550/ARXIV.2009.09208}{\emph{The quantum ising
   chain for beginners}}, 2020. \url{https://arxiv.org/abs/2009.09208}.
 
+\bibitem[Ons44]{PhysRev.65.117}
+L.~Onsager, \emph{Crystal statistics. i. a two-dimensional model with an
+  order-disorder transition},
+  \href{https://link.aps.org/doi/10.1103/PhysRev.65.117}{Phys. Rev. \textbf{65}
+  (1944) 117--149}.
+
 \bibitem[PV00]{Pelissetto:2000ek}
 A.~Pelissetto and E.~Vicari, \emph{{Critical phenomena and renormalization
   group theory}},
@@ -64,6 +89,12 @@ R.~Samajdar, D.~G. Joshi, Y.~Teng, and S.~Sachdev, \emph{{Emergent
   $\mathbb{Z}_2$ gauge theories and topological excitations in Rydberg atom
   arrays}}, \href{http://arxiv.org/abs/2204.00632}{{\arxivfont arXiv:2204.00632
   [cond-mat.quant-gas]}}.
+
+\bibitem[SML64]{RevModPhys.36.856}
+T.~D. SCHULTZ, D.~C. MATTIS, and E.~H. LIEB, \emph{Two-dimensional ising model
+  as a soluble problem of many fermions},
+  \href{https://link.aps.org/doi/10.1103/RevModPhys.36.856}{Rev. Mod. Phys.
+  \textbf{36} (1964) 856--871}.
 
 \bibitem[SRFL08]{Schnyder:2008tya}
 A.~Schnyder, S.~Ryu, A.~Furusaki, and A.~Ludwig, \emph{{Classification of
