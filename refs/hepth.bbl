@@ -191,6 +191,12 @@ K.~Hersent, P.~Mathieu, and J.-C. Wallet, \emph{{Algebraic structures in
   \href{http://arxiv.org/abs/2110.10763}{{\arxivfont arXiv:2110.10763
   [hep-th]}}.
 
+\bibitem[HS16]{Hsin:2016blu}
+P.-S. Hsin and N.~Seiberg, \emph{{Level/rank Duality and Chern-Simons-Matter
+  Theories}}, \doihref{http://dx.doi.org/10.1007/JHEP09(2016)095}{JHEP
+  \textbf{09} (2016) 095}, \href{http://arxiv.org/abs/1607.07457}{{\arxivfont
+  arXiv:1607.07457 [hep-th]}}.
+
 \bibitem[HS22]{Huxford:2022wih}
 J.~Huxford and S.~H. Simon, \emph{{Excitations in the Higher Lattice Gauge
   Theory Model for Topological Phases I: Overview}},
@@ -227,6 +233,13 @@ L.~Kong and X.-G. Wen, \emph{{Braided fusion categories, gravitational
   dimensions}}, \href{http://arxiv.org/abs/1405.5858}{{\arxivfont
   arXiv:1405.5858 [cond-mat.str-el]}}.
 
+\bibitem[KY21]{Kubo:2021xxi}
+N.~Kubo and S.~Yokoyama, \emph{{Topological phase, spin Chern-Simons theory and
+  level rank duality on lens space}},
+  \doihref{http://dx.doi.org/10.1007/JHEP04(2022)074}{JHEP \textbf{04} (2022)
+  074}, \href{http://arxiv.org/abs/2108.09300}{{\arxivfont arXiv:2108.09300
+  [hep-th]}}.
+
 \bibitem[LF20]{LeFloch:2020uop}
 B.~Le~Floch, \emph{{A slow review of the AGT correspondence}},
   \href{http://arxiv.org/abs/2006.14025}{{\arxivfont arXiv:2006.14025
@@ -252,6 +265,13 @@ K.~Roumpedakis, S.~Seifnashri, and S.-H. Shao, \emph{{Higher Gauging and
   Non-invertible Condensation Defects}},
   \href{http://arxiv.org/abs/2204.02407}{{\arxivfont arXiv:2204.02407
   [hep-th]}}.
+
+\bibitem[Sch92]{Schwarz:1992nx}
+A.~S. Schwarz, \emph{{Geometry of Batalin-Vilkovisky quantization}},
+  \doihref{http://dx.doi.org/10.1007/BF02097392}{Commun. Math. Phys.
+  \textbf{155} (1993) 249--260},
+  \href{http://arxiv.org/abs/hep-th/9205088}{{\arxivfont
+  arXiv:hep-th/9205088}}.
 
 \bibitem[Sch98]{Schwarz_1998}
 A.~Schwarz, \emph{Morita equivalence and duality},
