@@ -35,6 +35,12 @@ J.~Huxford and S.~H. Simon, \emph{{Excitations in the Higher Lattice Gauge
   \href{http://arxiv.org/abs/2204.05341}{{\arxivfont arXiv:2204.05341
   [cond-mat.str-el]}}.
 
+\bibitem[Kab22]{https://doi.org/10.48550/arxiv.2203.05533}
+Z.~Kabluchko,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2203.05533}{\emph{Lee-yang zeroes
+  of the curie-weiss ferromagnet, unitary hermite polynomials, and the backward
+  heat flow}}, 2022. \url{https://arxiv.org/abs/2203.05533}.
+
 \bibitem[Kit09]{Kitaev:2009mg}
 A.~Kitaev, \emph{{Periodic table for topological insulators and
   superconductors}}, \doihref{http://dx.doi.org/10.1063/1.3149495}{AIP Conf.
@@ -116,5 +122,12 @@ M.~Suzuki, \emph{{Relationship between d-Dimensional Quantal Spin Systems and
 H.~Tasaki, \emph{{The Lieb-Schultz-Mattis Theorem: A Topological Point of
   View}}, \href{http://arxiv.org/abs/2202.06243}{{\arxivfont arXiv:2202.06243
   [cond-mat.stat-mech]}}.
+
+\bibitem[Wit15]{Witten:2015aba}
+E.~Witten, \emph{{Fermion Path Integrals And Topological Phases}},
+  \doihref{http://dx.doi.org/10.1103/RevModPhys.88.035001}{Rev. Mod. Phys.
+  \textbf{88} (2016) 035001},
+  \href{http://arxiv.org/abs/1508.04715}{{\arxivfont arXiv:1508.04715
+  [cond-mat.mes-hall]}}.
 
 \end{thebibliography}

@@ -8,7 +8,13 @@
 \providecommand{\href}[2]{#2}
 \providecommand{\doihref}[2]{\href{#1}{#2}}
 \providecommand{\arxivfont}{\tt}
-\begin{thebibliography}{BBSNT22}
+\begin{thebibliography}{GDMBVn22}
+
+\bibitem[ABB{\etalchar{+}}22]{Apolo:2022fya}
+L.~Apolo, A.~Belin, S.~Bintanja, A.~Castro, and C.~A. Keller, \emph{{Deforming
+  Symmetric Product Orbifolds: A tale of moduli and higher spin currents}},
+  \href{http://arxiv.org/abs/2204.07590}{{\arxivfont arXiv:2204.07590
+  [hep-th]}}.
 
 \bibitem[ACC22]{Andriot:2022mri}
 D.~Andriot, N.~Carqueville, and N.~Cribiori, \emph{{Looking for structure in
@@ -34,6 +40,12 @@ L.~F. Alday, D.~Gaiotto, and Y.~Tachikawa, \emph{{Liouville Correlation
   \doihref{http://dx.doi.org/10.1007/s11005-010-0369-5}{Lett. Math. Phys.
   \textbf{91} (2010) 167--197},
   \href{http://arxiv.org/abs/0906.3219}{{\arxivfont arXiv:0906.3219 [hep-th]}}.
+
+\bibitem[AKG22]{Arzano:2022ewc}
+M.~Arzano and J.~Kowalski-Glikman, \emph{{A group theoretic description of the
+  $\kappa$-Poincar\'e Hopf algebra}},
+  \href{http://arxiv.org/abs/2204.09394}{{\arxivfont arXiv:2204.09394
+  [hep-th]}}.
 
 \bibitem[Amb22]{Ambjorn:2022btk}
 J.~Ambjorn, \emph{{Elementary Quantum Geometry}},
@@ -75,6 +87,18 @@ L.~Buoninfante, Y.~Miyashita, and M.~Yamaguchi,
   problems in quantum field theory}}, 2022.
   \url{https://arxiv.org/abs/2203.16689}.
 
+\bibitem[BT17]{Bhardwaj:2017xup}
+L.~Bhardwaj and Y.~Tachikawa, \emph{{On finite symmetries and their gauging in
+  two dimensions}}, \doihref{http://dx.doi.org/10.1007/JHEP03(2018)189}{JHEP
+  \textbf{03} (2018) 189}, \href{http://arxiv.org/abs/1704.02330}{{\arxivfont
+  arXiv:1704.02330 [hep-th]}}.
+
+\bibitem[CCH{\etalchar{+}}22]{Choi:2022zal}
+Y.~Choi, C.~Cordova, P.-S. Hsin, H.~T. Lam, and S.-H. Shao,
+  \emph{{Non-invertible Condensation, Duality, and Triality Defects in 3+1
+  Dimensions}}, \href{http://arxiv.org/abs/2204.09025}{{\arxivfont
+  arXiv:2204.09025 [hep-th]}}.
+
 \bibitem[CH22]{Chicherin:2022zxo}
 D.~Chicherin and J.~Henn, \emph{{Pentagon Wilson loop with Lagrangian insertion
   at two loops in ${\mathcal N}=4$ super Yang-Mills theory}},
@@ -100,6 +124,16 @@ O.~M. Del~Cima, L.~S. Lima, and E.~S. Miranda, \emph{{The spectrum consistency
   \href{http://arxiv.org/abs/2204.02534}{{\arxivfont arXiv:2204.02534
   [hep-th]}}.
 
+\bibitem[DHVW85]{Dixon:1985jw}
+L.~J. Dixon, J.~A. Harvey, C.~Vafa, and E.~Witten, \emph{{Strings on
+  Orbifolds}}, \doihref{http://dx.doi.org/10.1016/0550-3213(85)90593-0}{Nucl.
+  Phys. B \textbf{261} (1985) 678--686}.
+
+\bibitem[DHVW86]{Dixon:1986jc}
+\bysame, \emph{{Strings on Orbifolds. 2.}},
+  \doihref{http://dx.doi.org/10.1016/0550-3213(86)90287-7}{Nucl. Phys. B
+  \textbf{274} (1986) 285--314}.
+
 \bibitem[EFSS22]{Ebert:2022xfh}
 S.~Ebert, C.~Ferko, H.-Y. Sun, and Z.~Sun, \emph{{$T \overline{T}$ Deformations
   of Supersymmetric Quantum Mechanics}},
@@ -120,6 +154,13 @@ J.~Frohlich, O.~Grandjean, and A.~Recknagel, \emph{{Supersymmetric quantum
   Quantum Symmetries}, 8 1995, pp.~221--385.
   \href{http://arxiv.org/abs/hep-th/9706132}{{\arxivfont
   arXiv:hep-th/9706132}}.
+
+\bibitem[FK20]{Futaki:2020kpa}
+M.~Futaki and H.~Kajiura, \emph{{Homological mirror symmetry of $\mathbb{C}P^n$
+  and their products via Morse homotopy}},
+  \doihref{http://dx.doi.org/10.1063/5.0029165}{J. Math. Phys. \textbf{62}
+  (2021) 032307}, \href{http://arxiv.org/abs/2008.13462}{{\arxivfont
+  arXiv:2008.13462 [math.SG]}}.
 
 \bibitem[FS22]{Fosco:2022dhg}
 C.~D. Fosco and F.~A. Schaposnik, \emph{{Induced Chern-Simons term by
@@ -143,6 +184,12 @@ N.~Garner, \emph{{Vertex Operator Algebras and Topologically Twisted
   \href{http://arxiv.org/abs/2204.02997}{{\arxivfont arXiv:2204.02997
   [hep-th]}}.
 
+\bibitem[GDMBVn22]{G:2022weg}
+J.~F.~B. G., B.~D\'\i{}az, J.~Margalef-Bentabol, and E.~J.~S. Villase\~nor,
+  \emph{{Edge observables of the Maxwell-Chern-Simons theory}},
+  \href{http://arxiv.org/abs/2204.06073}{{\arxivfont arXiv:2204.06073
+  [hep-th]}}.
+
 \bibitem[GFRT20]{Garcia-Fernandez:2020awc}
 M.~Garcia-Fernandez, R.~Rubio, and C.~Tipler, \emph{{Gauge theory for string
   algebroids}}, \href{http://arxiv.org/abs/2004.11399}{{\arxivfont
@@ -159,11 +206,24 @@ C.~J. Grewcoe, L.~Jonke, T.~Kodzoman, and G.~Manolakos, \emph{{From Hopf
   \href{http://arxiv.org/abs/2204.01352}{{\arxivfont arXiv:2204.01352
   [hep-th]}}.
 
+\bibitem[GMSZ20]{Gu:2020zpg}
+W.~Gu, L.~Mihalcea, E.~Sharpe, and H.~Zou, \emph{{Quantum K theory of
+  symplectic Grassmannians}},
+  \href{http://arxiv.org/abs/2008.04909}{{\arxivfont arXiv:2008.04909
+  [hep-th]}}.
+
 \bibitem[GMW15]{Gaiotto:2015aoa}
 D.~Gaiotto, G.~W. Moore, and E.~Witten, \emph{{Algebra of the Infrared: String
   Field Theoretic Structures in Massive ${\cal N}=(2,2)$ Field Theory In Two
   Dimensions}}, \href{http://arxiv.org/abs/1506.04087}{{\arxivfont
   arXiv:1506.04087 [hep-th]}}.
+
+\bibitem[GNT08]{Gaiotto:2009jjh}
+D.~Gaiotto, A.~Neitzke, and Y.~Tachikawa, \emph{{Argyres-Seiberg duality and
+  the Higgs branch}},
+  \doihref{http://dx.doi.org/10.1007/s00220-009-0938-6}{Commun. Math. Phys.
+  \textbf{294} (2010) 389--410},
+  \href{http://arxiv.org/abs/0810.4541}{{\arxivfont arXiv:0810.4541 [hep-th]}}.
 
 \bibitem[GP22]{Garner:2022its}
 N.~Garner and N.~M. Paquette, \emph{{TASI Lectures on the Mathematics of String
@@ -203,6 +263,14 @@ J.~Huxford and S.~H. Simon, \emph{{Excitations in the Higher Lattice Gauge
   \href{http://arxiv.org/abs/2202.08294}{{\arxivfont arXiv:2202.08294
   [cond-mat.str-el]}}.
 
+\bibitem[HTY20]{Hsieh:2020jpj}
+C.-T. Hsieh, Y.~Tachikawa, and K.~Yonekura, \emph{{Anomaly Inflow and p-Form
+  Gauge Theories}},
+  \doihref{http://dx.doi.org/10.1007/s00220-022-04333-w}{Commun. Math. Phys.
+  \textbf{391} (2022) 495--608},
+  \href{http://arxiv.org/abs/2003.11550}{{\arxivfont arXiv:2003.11550
+  [hep-th]}}.
+
 \bibitem[ISSU22]{Inoue:2022nwu}
 T.~Inoue, M.~Sakamoto, M.~Sato, and I.~Ueba, \emph{{Correspondence of
   topological classification between quantum graph extra dimension and
@@ -218,6 +286,14 @@ B.~S. Kay, \emph{{A product picture for quantum electrodynamics}},
 S.~Krivonos, O.~Lechtenfeld, and A.~Sutulin, \emph{{Integrability of
   supersymmetric Calogero-Moser models}},
   \href{http://arxiv.org/abs/2204.02692}{{\arxivfont arXiv:2204.02692
+  [hep-th]}}.
+
+\bibitem[KOZ21]{Kaidi:2021xfk}
+J.~Kaidi, K.~Ohmori, and Y.~Zheng, \emph{{Kramers-Wannier-like Duality Defects
+  in (3+1)D Gauge Theories}},
+  \doihref{http://dx.doi.org/10.1103/PhysRevLett.128.111601}{Phys. Rev. Lett.
+  \textbf{128} (2022) 111601},
+  \href{http://arxiv.org/abs/2111.01141}{{\arxivfont arXiv:2111.01141
   [hep-th]}}.
 
 \bibitem[KT11]{Kanno:2011fw}
@@ -250,6 +326,13 @@ A.~Losev and V.~Lysov, \emph{{Tropical Mirror}},
   \href{http://arxiv.org/abs/2204.06896}{{\arxivfont arXiv:2204.06896
   [hep-th]}}.
 
+\bibitem[MT11]{Moore:2011ee}
+G.~W. Moore and Y.~Tachikawa, \emph{{On 2d TQFTs whose values are holomorphic
+  symplectic varieties}},
+  \doihref{http://dx.doi.org/10.1090/pspum/085/1379}{Proc. Symp. Pure Math.
+  \textbf{85} (2012) 191--208},
+  \href{http://arxiv.org/abs/1106.5698}{{\arxivfont arXiv:1106.5698 [hep-th]}}.
+
 \bibitem[Obu22]{Obukhov:2022zlu}
 V.~V. Obukhov, \emph{{Maxwell's equations in homogeneous spaces for admissible
   electromagnetic fields}}, \href{http://arxiv.org/abs/2204.07031}{{\arxivfont
@@ -278,11 +361,40 @@ A.~Schwarz, \emph{Morita equivalence and duality},
   \href{https://doi.org/10.1016%2Fs0550-3213%2898%2900550-1}{Nuclear Physics B
   \textbf{534} (1998) 720--738}.
 
+\bibitem[Sha19a]{Sharpe:2019yag}
+E.~Sharpe, \emph{{Categorical Equivalence and the Renormalization Group}},
+  \doihref{http://dx.doi.org/10.1002/prop.201910019}{Fortsch. Phys. \textbf{67}
+  (2019) 1910019}, \href{http://arxiv.org/abs/1903.02880}{{\arxivfont
+  arXiv:1903.02880 [hep-th]}}.
+
+\bibitem[Sha19b]{Sharpe:2019ddn}
+\bysame, \emph{{Undoing decomposition}},
+  \doihref{http://dx.doi.org/10.1142/S0217751X19502336}{Int. J. Mod. Phys. A
+  \textbf{34} (2020) 1950233},
+  \href{http://arxiv.org/abs/1911.05080}{{\arxivfont arXiv:1911.05080
+  [hep-th]}}.
+
+\bibitem[Sha21]{Sharpe:2021srf}
+E.~Sharpe, \emph{{Topological operators, noninvertible symmetries and
+  decomposition}}, \href{http://arxiv.org/abs/2108.13423}{{\arxivfont
+  arXiv:2108.13423 [hep-th]}}.
+
+\bibitem[Sha22]{Sharpe:2022ene}
+E.~Sharpe, \emph{{An introduction to decomposition}},
+  \href{http://arxiv.org/abs/2204.09117}{{\arxivfont arXiv:2204.09117
+  [hep-th]}}.
+
 \bibitem[Sil20]{Silva:2020lnr}
 C.~Silva, \emph{{Spacetime from quantum information: spin networks and the
   cosmological constant in the $AdS/CFT$ correspondence}},
   \href{http://arxiv.org/abs/2009.07843}{{\arxivfont arXiv:2009.07843
   [gr-qc]}}.
+
+\bibitem[Smi22]{Smilga:2022xij}
+A.~Smilga, \emph{{Comments on noncommutative quantum mechanical systems
+  associated with Lie algebras}},
+  \href{http://arxiv.org/abs/2204.08705}{{\arxivfont arXiv:2204.08705
+  [hep-th]}}.
 
 \bibitem[Sto22]{Stoica:2022xvj}
 O.~C. Stoica, \emph{{The Problem of Irreversible Change in Quantum Mechanics}},
@@ -305,6 +417,12 @@ N.~Seiberg and E.~Witten, \emph{{Electric - magnetic duality, monopole
   \href{http://arxiv.org/abs/hep-th/9408099}{{\arxivfont
   arXiv:hep-th/9408099}}.
 
+\bibitem[SW99]{Seiberg:1999vs}
+N.~Seiberg and E.~Witten, \emph{{String theory and noncommutative geometry}},
+  \doihref{http://dx.doi.org/10.1088/1126-6708/1999/09/032}{JHEP \textbf{09}
+  (1999) 032}, \href{http://arxiv.org/abs/hep-th/9908142}{{\arxivfont
+  arXiv:hep-th/9908142}}.
+
 \bibitem[Tac11]{Tachikawa2011}
 Y.~Tachikawa, \doihref{http://dx.doi.org/10.48550/ARXIV.1108.5632}{\emph{A
   strange relationship between 2d cft and 4d gauge theory}}, 2011.
@@ -314,6 +432,12 @@ Y.~Tachikawa, \doihref{http://dx.doi.org/10.48550/ARXIV.1108.5632}{\emph{A
 \bysame, \doihref{http://dx.doi.org/10.1007/978-3-319-08822-8}{\emph{{N=2
   supersymmetric dynamics for pedestrians}}}, 12 2013.
   \href{http://arxiv.org/abs/1312.2684}{{\arxivfont arXiv:1312.2684 [hep-th]}}.
+
+\bibitem[TT11]{Tachikawa:2011yr}
+Y.~Tachikawa and S.~Terashima, \emph{{Seiberg-Witten Geometries Revisited}},
+  \doihref{http://dx.doi.org/10.1007/JHEP09(2011)010}{JHEP \textbf{09} (2011)
+  010}, \href{http://arxiv.org/abs/1108.2315}{{\arxivfont arXiv:1108.2315
+  [hep-th]}}.
 
 \bibitem[TW21]{Tian:2021cif}
 J.~Tian and Y.-N. Wang, \emph{{5D and 6D SCFTs from $\mathbb{C}^3$ orbifolds}},
@@ -337,6 +461,11 @@ E.~Witten, \emph{{Constraints on Supersymmetry Breaking}},
   \doihref{http://dx.doi.org/10.1016/0550-3213(82)90071-2}{Nucl. Phys. B
   \textbf{202} (1982) 253}.
 
+\bibitem[Wit88]{Witten:1988ze}
+\bysame, \emph{{Topological Quantum Field Theory}},
+  \doihref{http://dx.doi.org/10.1007/BF01223371}{Commun. Math. Phys.
+  \textbf{117} (1988) 353}.
+
 \bibitem[Wit89]{Witten:1988hf}
 \bysame, \emph{{Quantum Field Theory and the Jones Polynomial}},
   \doihref{http://dx.doi.org/10.1007/BF01217730}{Commun. Math. Phys.
@@ -348,6 +477,19 @@ E.~Witten, \emph{{Constraints on Supersymmetry Breaking}},
   Phys. \textbf{2} (1998) 253--291},
   \href{http://arxiv.org/abs/hep-th/9802150}{{\arxivfont
   arXiv:hep-th/9802150}}.
+
+\bibitem[Wit00]{Witten:2000nv}
+\bysame, \emph{{Supersymmetric index in four-dimensional gauge theories}},
+  \doihref{http://dx.doi.org/10.4310/ATMP.2001.v5.n5.a1}{Adv. Theor. Math.
+  Phys. \textbf{5} (2002) 841--907},
+  \href{http://arxiv.org/abs/hep-th/0006010}{{\arxivfont
+  arXiv:hep-th/0006010}}.
+
+\bibitem[WWW18]{Wang:2018qoy}
+J.~Wang, X.-G. Wen, and E.~Witten, \emph{{A New SU(2) Anomaly}},
+  \doihref{http://dx.doi.org/10.1063/1.5082852}{J. Math. Phys. \textbf{60}
+  (2019) 052301}, \href{http://arxiv.org/abs/1810.00844}{{\arxivfont
+  arXiv:1810.00844 [hep-th]}}.
 
 \bibitem[Yam22]{Yamazaki2022}
 M.~Yamazaki, \doihref{http://dx.doi.org/10.48550/ARXIV.2203.14314}{\emph{Quiver
