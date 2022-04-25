@@ -11,19 +11,32 @@
 \begin{thebibliography}{CCGFG22}
 
 \bibitem[AFHRA22]{AmirzadehFard2022}
-H.~Amirzadeh-Fard, G.~Haghighatdoost, and A.~Rezaei-Aghdam, \emph{Integrable
+H.~Amirzadeh-Fard, G.~Haghighatdoost, and A.~Rezaei-Aghdam,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2203.06377}{\emph{Integrable
   bi-hamiltonian systems by jacobi structure on real three-dimensional lie
-  groups}, 2022. \url{https://arxiv.org/abs/2203.06377}.
+  groups}}, 2022. \url{https://arxiv.org/abs/2203.06377}.
+
+\bibitem[AFM22]{Angelone:2022eee}
+G.~Angelone, P.~Facchi, and G.~Marmo, \emph{{Hearing the shape of a quantum
+  boundary condition}}, \href{http://arxiv.org/abs/2204.10248}{{\arxivfont
+  arXiv:2204.10248 [quant-ph]}}.
 
 \bibitem[BC22]{Bols2022}
-A.~Bols and C.~Cedzich, \emph{Absolutely continuous edge spectrum of
-  topological insulators with an odd time-reversal symmetry}, 2022.
-  \url{https://arxiv.org/abs/2203.05474}.
+A.~Bols and C.~Cedzich,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2203.05474}{\emph{Absolutely
+  continuous edge spectrum of topological insulators with an odd time-reversal
+  symmetry}}, 2022. \url{https://arxiv.org/abs/2203.05474}.
 
 \bibitem[BDRFJ22]{Bachmann:2022bhx}
 S.~Bachmann, W.~De~Roeck, M.~Fraas, and T.~Jappens, \emph{{A classification of
   $G$-charge Thouless pumps in 1D invertible states}},
   \href{http://arxiv.org/abs/2204.03763}{{\arxivfont arXiv:2204.03763
+  [math-ph]}}.
+
+\bibitem[BF20]{boukas2020spectral}
+A.~Boukas and P.~Feinsilver, \emph{Spectral theorem approach to the
+  characteristic function of quantum observables}, 2020.
+  \href{http://arxiv.org/abs/2007.01527}{{\arxivfont arXiv:2007.01527
   [math-ph]}}.
 
 \bibitem[BFS21]{Bruinsma:2021eis}
@@ -33,9 +46,10 @@ S.~Bruinsma, C.~J. Fewster, and A.~Schenkel, \emph{{Relative Cauchy evolution
   [math-ph]}}.
 
 \bibitem[BGK{\etalchar{+}}22]{https://doi.org/10.48550/arxiv.2204.02745}
-G.~Baverez, C.~Guillarmou, A.~Kupiainen, R.~Rhodes, and V.~Vargas, \emph{The
-  virasoro structure and the scattering matrix for liouville conformal field
-  theory}, 2022. \url{https://arxiv.org/abs/2204.02745}.
+G.~Baverez, C.~Guillarmou, A.~Kupiainen, R.~Rhodes, and V.~Vargas,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2204.02745}{\emph{The virasoro
+  structure and the scattering matrix for liouville conformal field theory}},
+  2022. \url{https://arxiv.org/abs/2204.02745}.
 
 \bibitem[BH22]{branahl2022spectral}
 J.~Branahl and A.~Hock, \emph{A spectral curve for the generation of bipartite
@@ -44,27 +58,38 @@ J.~Branahl and A.~Hock, \emph{A spectral curve for the generation of bipartite
   [math-ph]}}.
 
 \bibitem[BKS20]{Borot2020}
-G.~Borot, R.~Kramer, and Y.~Sch^^c3^^bcler, \emph{Higher airy structures and
-  topological recursion for singular spectral curves}, 2020.
+G.~Borot, R.~Kramer, and Y.~Sch^^c3^^bcler,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2010.03512}{\emph{Higher airy
+  structures and topological recursion for singular spectral curves}}, 2020.
   \url{https://arxiv.org/abs/2010.03512}.
 
 \bibitem[BM22]{https://doi.org/10.48550/arxiv.2204.00712}
-A.~Black and T.~Malinovitch, \emph{Scattering for schr^^c3^^b6dinger operators
-  with potentials concentrated near a subspace}, 2022.
-  \url{https://arxiv.org/abs/2204.00712}.
+A.~Black and T.~Malinovitch,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2204.00712}{\emph{Scattering for
+  schr^^c3^^b6dinger operators with potentials concentrated near a subspace}},
+  2022. \url{https://arxiv.org/abs/2204.00712}.
+
+\bibitem[Bou22]{boukas2022spectral}
+A.~Boukas, \emph{Spectral theorem approach to the characteristic function of
+  quantum observables ii}, 2022.
+  \href{http://arxiv.org/abs/2204.10528}{{\arxivfont arXiv:2204.10528
+  [math-ph]}}.
 
 \bibitem[Car21]{https://doi.org/10.48550/arxiv.2107.14176}
-V.~Carmona, \emph{New model structures for algebraic quantum field theory},
-  2021. \url{https://arxiv.org/abs/2107.14176}.
+V.~Carmona, \doihref{http://dx.doi.org/10.48550/ARXIV.2107.14176}{\emph{New
+  model structures for algebraic quantum field theory}}, 2021.
+  \url{https://arxiv.org/abs/2107.14176}.
 
 \bibitem[CC22]{https://doi.org/10.48550/arxiv.2204.07193}
-A.~Cabrera and M.~Cueca, \emph{Dimensional reduction of courant sigma models
-  and lie theory of poisson groupoids}, 2022.
-  \url{https://arxiv.org/abs/2204.07193}.
+A.~Cabrera and M.~Cueca,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2204.07193}{\emph{Dimensional
+  reduction of courant sigma models and lie theory of poisson groupoids}},
+  2022. \url{https://arxiv.org/abs/2204.07193}.
 
 \bibitem[CCGFG22]{Charbonnier2022}
 S.~Charbonnier, N.~K. Chidambaram, E.~Garcia-Failde, and A.~Giacchetto,
-  \emph{Shifted witten classes and topological recursion}, 2022.
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2203.16523}{\emph{Shifted witten
+  classes and topological recursion}}, 2022.
   \url{https://arxiv.org/abs/2203.16523}.
 
 \bibitem[CCN22]{Camargo:2022wkd}
@@ -75,21 +100,36 @@ H.~A. Camargo, P.~Caputa, and P.~Nandy, \emph{{Q-curvature and path integral
 
 \bibitem[CEK{\etalchar{+}}22]{https://doi.org/10.48550/arxiv.2204.01199}
 K.~D. Cherednichenko, Y.~Y. Ershova, A.~V. Kiselev, V.~A. Ryzhov, and L.~O.
-  Silva, \emph{Asymptotic analysis of operator families and applications to
-  resonant media}, 2022. \url{https://arxiv.org/abs/2204.01199}.
+  Silva, \doihref{http://dx.doi.org/10.48550/ARXIV.2204.01199}{\emph{Asymptotic
+  analysis of operator families and applications to resonant media}}, 2022.
+  \url{https://arxiv.org/abs/2204.01199}.
+
+\bibitem[Cha20]{https://doi.org/10.48550/arxiv.2012.14190}
+L.~Charles, \doihref{http://dx.doi.org/10.48550/ARXIV.2012.14190}{\emph{Landau
+  levels on a compact manifold}}, 2020. \url{https://arxiv.org/abs/2012.14190}.
 
 \bibitem[CJN21]{https://doi.org/10.48550/arxiv.2111.05146}
-F.~Camia, J.~Jiang, and C.~M. Newman, \emph{Ising model with curie-weiss
-  perturbation}, 2021. \url{https://arxiv.org/abs/2111.05146}.
+F.~Camia, J.~Jiang, and C.~M. Newman,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2111.05146}{\emph{Ising model with
+  curie-weiss perturbation}}, 2021. \url{https://arxiv.org/abs/2111.05146}.
+
+\bibitem[CLM21]{Corcoran:2021gda}
+L.~Corcoran, F.~Loebbert, and J.~Miczajka, \emph{{Yangian Ward Identities for
+  Fishnet Four-Point Integrals}},
+  \href{http://arxiv.org/abs/2112.06928}{{\arxivfont arXiv:2112.06928
+  [hep-th]}}.
 
 \bibitem[d'A22]{https://doi.org/10.48550/arxiv.2204.03483}
-L.~P. d'Andecy, \emph{Fusion for the yang-baxter equation and the braid group},
-  2022. \url{https://arxiv.org/abs/2204.03483}.
+L.~P. d'Andecy,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2204.03483}{\emph{Fusion for the
+  yang-baxter equation and the braid group}}, 2022.
+  \url{https://arxiv.org/abs/2204.03483}.
 
 \bibitem[DA22]{https://doi.org/10.48550/arxiv.2204.04896}
-A.~Dargys and A.~Acus, \emph{Exponential and logarithm of multivector in low
-  dimensional (n=p+q\&lt;3) clifford algebras}, 2022.
-  \url{https://arxiv.org/abs/2204.04896}.
+A.~Dargys and A.~Acus,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2204.04896}{\emph{Exponential and
+  logarithm of multivector in low dimensional (n=p+q\&lt;3) clifford
+  algebras}}, 2022. \url{https://arxiv.org/abs/2204.04896}.
 
 \bibitem[Dec22]{dechant2022root}
 P.-P. Dechant, \emph{Root systems \& clifford algebras: from symmetries of
@@ -104,39 +144,56 @@ B.~B. Dilem, J.~C. Fabris, and J.~A. Nogueira, \emph{{Self-adjoint extensions
   [math-ph]}}.
 
 \bibitem[DGRW20]{Davighi2020}
-J.~Davighi, B.~Gripaios, and O.~Randal-Williams, \emph{Differential cohomology
-  and topological actions in physics}, 2020.
+J.~Davighi, B.~Gripaios, and O.~Randal-Williams,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2011.05768}{\emph{Differential
+  cohomology and topological actions in physics}}, 2020.
   \url{https://arxiv.org/abs/2011.05768}.
 
 \bibitem[Dim22]{https://doi.org/10.48550/arxiv.2204.07201}
-J.~Dimock, \emph{Stability for qed in d=3: an overview}, 2022.
-  \url{https://arxiv.org/abs/2204.07201}.
+J.~Dimock,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2204.07201}{\emph{Stability for qed
+  in d=3: an overview}}, 2022. \url{https://arxiv.org/abs/2204.07201}.
 
 \bibitem[DS22]{https://doi.org/10.48550/arxiv.2204.00557}
-M.~Duerinckx and C.~Shirley, \emph{Cherenkov radiation with massive bosons and
-  quantum friction}, 2022. \url{https://arxiv.org/abs/2204.00557}.
+M.~Duerinckx and C.~Shirley,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2204.00557}{\emph{Cherenkov
+  radiation with massive bosons and quantum friction}}, 2022.
+  \url{https://arxiv.org/abs/2204.00557}.
 
 \bibitem[DT21]{https://doi.org/10.48550/arxiv.2112.12354}
-X.~Ding and T.~Trogdon, \emph{A riemann--hilbert approach to the perturbation
-  theory for orthogonal polynomials: Applications to numerical linear algebra
-  and random matrix theory}, 2021. \url{https://arxiv.org/abs/2112.12354}.
+X.~Ding and T.~Trogdon,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2112.12354}{\emph{A
+  riemann--hilbert approach to the perturbation theory for orthogonal
+  polynomials: Applications to numerical linear algebra and random matrix
+  theory}}, 2021. \url{https://arxiv.org/abs/2112.12354}.
 
 \bibitem[EG22]{https://doi.org/10.48550/arxiv.2204.03702}
-C.~Elliott and O.~Gwilliam, \emph{Framed $\mathbb e_n$-algebras from quantum
-  field theory}, 2022. \url{https://arxiv.org/abs/2204.03702}.
+C.~Elliott and O.~Gwilliam,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2204.03702}{\emph{Framed $\mathbb
+  e_n$-algebras from quantum field theory}}, 2022.
+  \url{https://arxiv.org/abs/2204.03702}.
 
 \bibitem[Fau22]{https://doi.org/10.48550/arxiv.2204.01596}
-M.~Faulhuber, \emph{Time-frequency analysis (lecture notes)}, 2022.
-  \url{https://arxiv.org/abs/2204.01596}.
+M.~Faulhuber,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2204.01596}{\emph{Time-frequency
+  analysis (lecture notes)}}, 2022. \url{https://arxiv.org/abs/2204.01596}.
 
 \bibitem[FL22]{Falconi2022}
-M.~Falconi and N.~Leopold, \emph{Derivation of the maxwell-schr^^c3^^b6dinger
-  equations: A note on the infrared sector of the radiation field}, 2022.
-  \url{https://arxiv.org/abs/2203.16368}.
+M.~Falconi and N.~Leopold,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2203.16368}{\emph{Derivation of the
+  maxwell-schr^^c3^^b6dinger equations: A note on the infrared sector of the
+  radiation field}}, 2022. \url{https://arxiv.org/abs/2203.16368}.
+
+\bibitem[FMS22]{https://doi.org/10.48550/arxiv.2204.10081}
+R.~L. Frank, K.~Merz, and H.~Siedentop,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2204.10081}{\emph{The scott
+  conjecture for large coulomb systems: a review}}, 2022.
+  \url{https://arxiv.org/abs/2204.10081}.
 
 \bibitem[For22]{https://doi.org/10.48550/arxiv.2204.03303}
-P.~J. Forrester, \emph{A review of exact results for fluctuation formulas in
-  random matrix theory}, 2022. \url{https://arxiv.org/abs/2204.03303}.
+P.~J. Forrester, \doihref{http://dx.doi.org/10.48550/ARXIV.2204.03303}{\emph{A
+  review of exact results for fluctuation formulas in random matrix theory}},
+  2022. \url{https://arxiv.org/abs/2204.03303}.
 
 \bibitem[FSS20]{Fiorenza:2020iax}
 D.~Fiorenza, H.~Sati, and U.~Schreiber, \emph{{Twistorial Cohomotopy implies
@@ -144,13 +201,22 @@ D.~Fiorenza, H.~Sati, and U.~Schreiber, \emph{{Twistorial Cohomotopy implies
   \href{http://arxiv.org/abs/2008.08544}{{\arxivfont arXiv:2008.08544
   [hep-th]}}.
 
+\bibitem[GMPR22]{2022}
+D.~Gontier, D.~Monaco, and S.~Perrin-Roussel, \emph{Symmetric fermi projections
+  and kitaev’s table: Topological phases of matter in low dimensions},
+  \href{http://dx.doi.org/10.1063/5.0084326}{Journal of Mathematical Physics
+  \textbf{63} (2022) 041902}.
+
 \bibitem[Gou22]{Gough2022}
-J.~E. Gough, \emph{Field calculus: quantum and statistical field theory without
-  the feynman diagrams}, 2022. \url{https://arxiv.org/abs/2203.09296}.
+J.~E. Gough, \doihref{http://dx.doi.org/10.48550/ARXIV.2203.09296}{\emph{Field
+  calculus: quantum and statistical field theory without the feynman
+  diagrams}}, 2022. \url{https://arxiv.org/abs/2203.09296}.
 
 \bibitem[Hin22]{https://doi.org/10.48550/arxiv.2204.00287}
-B.~Hinrichs, \emph{Existence of ground states in the infrared-critial spin
-  boson model}, 2022. \url{https://arxiv.org/abs/2204.00287}.
+B.~Hinrichs,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2204.00287}{\emph{Existence of
+  ground states in the infrared-critial spin boson model}}, 2022.
+  \url{https://arxiv.org/abs/2204.00287}.
 
 \bibitem[HS22]{Huxford:2022mgr}
 J.~Huxford and S.~H. Simon, \emph{{Excitations in the Higher Lattice Gauge
@@ -159,26 +225,33 @@ J.~Huxford and S.~H. Simon, \emph{{Excitations in the Higher Lattice Gauge
   [cond-mat.str-el]}}.
 
 \bibitem[Iwa22]{https://doi.org/10.48550/arxiv.2204.00744}
-Y.~Iwata, \emph{Recurrence formula for any order evolution equations}, 2022.
+Y.~Iwata,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2204.00744}{\emph{Recurrence
+  formula for any order evolution equations}}, 2022.
   \url{https://arxiv.org/abs/2204.00744}.
 
 \bibitem[Jef22]{https://doi.org/10.48550/arxiv.2204.07257}
-B.~R.~F. Jefferies, \emph{On hilbert's sixth problem}, 2022.
-  \url{https://arxiv.org/abs/2204.07257}.
+B.~R.~F. Jefferies,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2204.07257}{\emph{On hilbert's
+  sixth problem}}, 2022. \url{https://arxiv.org/abs/2204.07257}.
 
 \bibitem[JTD22]{Jezequel2022}
-L.~Jezequel, C.~Tauber, and P.~Delplace, \emph{Estimating bulk and edge
-  topological indices in finite open chiral chains}, 2022.
+L.~Jezequel, C.~Tauber, and P.~Delplace,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2203.17099}{\emph{Estimating bulk
+  and edge topological indices in finite open chiral chains}}, 2022.
   \url{https://arxiv.org/abs/2203.17099}.
 
 \bibitem[Kab22]{https://doi.org/10.48550/arxiv.2203.05533}
-Z.~Kabluchko, \emph{Lee-yang zeroes of the curie-weiss ferromagnet, unitary
-  hermite polynomials, and the backward heat flow}, 2022.
-  \url{https://arxiv.org/abs/2203.05533}.
+Z.~Kabluchko,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2203.05533}{\emph{Lee-yang zeroes
+  of the curie-weiss ferromagnet, unitary hermite polynomials, and the backward
+  heat flow}}, 2022. \url{https://arxiv.org/abs/2203.05533}.
 
 \bibitem[KKT22]{Kiumi2022}
-C.~Kiumi, N.~Konno, and S.~Tamura, \emph{Return probability of quantum and
-  correlated random walks}, 2022. \url{https://arxiv.org/abs/2203.07674}.
+C.~Kiumi, N.~Konno, and S.~Tamura,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2203.07674}{\emph{Return
+  probability of quantum and correlated random walks}}, 2022.
+  \url{https://arxiv.org/abs/2203.07674}.
 
 \bibitem[Kot22]{koto2022convergence}
 Y.~Koto, \emph{Convergence and analytic decomposition of quantum cohomology of
@@ -186,19 +259,22 @@ Y.~Koto, \emph{Convergence and analytic decomposition of quantum cohomology of
   arXiv:2204.06473 [math.AG]}}.
 
 \bibitem[LaC15a]{LaChapelle2015a}
-J.~LaChapelle, \emph{Functional integral approach to $c^*$-algebraic quantum
-  mechanics ii: Symplectic quantum mechanics}, 2015.
-  \url{https://arxiv.org/abs/1506.02985}.
+J.~LaChapelle,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.1506.02985}{\emph{Functional
+  integral approach to $c^*$-algebraic quantum mechanics ii: Symplectic quantum
+  mechanics}}, 2015. \url{https://arxiv.org/abs/1506.02985}.
 
 \bibitem[LaC15b]{LaChapelle2015}
-J.~LaChapelle, \emph{Functional integral approach to $c^*$-algebraic quantum
-  mechanics i: Heisenberg and poincar^^c3^^a9}, 2015.
-  \url{https://arxiv.org/abs/1505.08102}.
+J.~LaChapelle,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.1505.08102}{\emph{Functional
+  integral approach to $c^*$-algebraic quantum mechanics i: Heisenberg and
+  poincar^^c3^^a9}}, 2015. \url{https://arxiv.org/abs/1505.08102}.
 
 \bibitem[LMZ22]{https://doi.org/10.48550/arxiv.2204.06840}
-D.~Latini, I.~Marquette, and Y.-Z. Zhang, \emph{Construction of polynomial
-  algebras from intermediate casimir invariants of lie algebras}, 2022.
-  \url{https://arxiv.org/abs/2204.06840}.
+D.~Latini, I.~Marquette, and Y.-Z. Zhang,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2204.06840}{\emph{Construction of
+  polynomial algebras from intermediate casimir invariants of lie algebras}},
+  2022. \url{https://arxiv.org/abs/2204.06840}.
 
 \bibitem[LW22]{Longo:2022lod}
 R.~Longo and E.~Witten, \emph{{A note on continuous entropy}},
@@ -206,42 +282,55 @@ R.~Longo and E.~Witten, \emph{{A note on continuous entropy}},
   [math-ph]}}.
 
 \bibitem[LZ22]{Lechtenfeld2022}
-O.~Lechtenfeld and D.~Zagier, \emph{A hyperbolic kac-moody calogero model},
-  2022. \url{https://arxiv.org/abs/2203.06519}.
+O.~Lechtenfeld and D.~Zagier,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2203.06519}{\emph{A hyperbolic
+  kac-moody calogero model}}, 2022. \url{https://arxiv.org/abs/2203.06519}.
 
 \bibitem[Mia22]{Miao2022}
-Y.~Miao, \emph{Generalised onsager algebra in quantum lattice models}, 2022.
+Y.~Miao,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2203.16594}{\emph{Generalised
+  onsager algebra in quantum lattice models}}, 2022.
   \url{https://arxiv.org/abs/2203.16594}.
 
 \bibitem[MNT22]{https://doi.org/10.48550/arxiv.2204.08675}
-T.~Miyao, K.~Nishimata, and H.~Tominaga, \emph{Rigorous analysis of the effects
-  of electron-phonon interactions on magnetic properties in the one-electron
-  kondo lattice model}, 2022. \url{https://arxiv.org/abs/2204.08675}.
+T.~Miyao, K.~Nishimata, and H.~Tominaga,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2204.08675}{\emph{Rigorous analysis
+  of the effects of electron-phonon interactions on magnetic properties in the
+  one-electron kondo lattice model}}, 2022.
+  \url{https://arxiv.org/abs/2204.08675}.
 
 \bibitem[Neg17]{Negut2017}
-A.~Negu^^c5^^a3, \emph{Agt relations for sheaves on surfaces}, 2017.
-  \url{https://arxiv.org/abs/1711.00390}.
+A.~Negu^^c5^^a3,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.1711.00390}{\emph{Agt relations for
+  sheaves on surfaces}}, 2017. \url{https://arxiv.org/abs/1711.00390}.
 
 \bibitem[PBHF22]{https://doi.org/10.48550/arxiv.2204.01843}
-E.~Patterson, A.~Baas, T.~Hosgood, and J.~Fairbanks, \emph{A diagrammatic view
-  of differential equations in physics}, 2022.
+E.~Patterson, A.~Baas, T.~Hosgood, and J.~Fairbanks,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2204.01843}{\emph{A diagrammatic
+  view of differential equations in physics}}, 2022.
   \url{https://arxiv.org/abs/2204.01843}.
 
 \bibitem[Rab20]{https://doi.org/10.48550/arxiv.2008.04953}
-E.~Rabinovich, \emph{Factorization algebras for classical bulk-boundary
-  systems}, 2020. \url{https://arxiv.org/abs/2008.04953}.
+E.~Rabinovich,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2008.04953}{\emph{Factorization
+  algebras for classical bulk-boundary systems}}, 2020.
+  \url{https://arxiv.org/abs/2008.04953}.
 
 \bibitem[RTT22]{Raymond2022}
-C.~Raymond, Y.~Tanimoto, and J.~E. Tener, \emph{Unitary vertex algebras and
-  wightman conformal field theories}, 2022.
+C.~Raymond, Y.~Tanimoto, and J.~E. Tener,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2203.10795}{\emph{Unitary vertex
+  algebras and wightman conformal field theories}}, 2022.
   \url{https://arxiv.org/abs/2203.10795}.
 
 \bibitem[Sav22]{https://doi.org/10.48550/arxiv.2202.13722}
-M.~Savoy, \emph{Combinatorial cobordism theory}, 2022.
-  \url{https://arxiv.org/abs/2202.13722}.
+M.~Savoy,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2202.13722}{\emph{Combinatorial
+  cobordism theory}}, 2022. \url{https://arxiv.org/abs/2202.13722}.
 
 \bibitem[Sie22]{Siedentop2022}
-H.~Siedentop, \emph{Mathematical elements of density functional theory}, 2022.
+H.~Siedentop,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2203.14069}{\emph{Mathematical
+  elements of density functional theory}}, 2022.
   \url{https://arxiv.org/abs/2203.14069}.
 
 \bibitem[Suz76]{cmp/1103900351}
@@ -251,29 +340,41 @@ M.~Suzuki, \emph{{Generalized Trotter's formula and systematic approximants of
   \textbf{51} (1976) 183 -- 190}.
 
 \bibitem[Tag22]{Tagawa2022}
-T.~Tagawa, \emph{A rellich type theorem for the generalized oscillator}, 2022.
+T.~Tagawa, \doihref{http://dx.doi.org/10.48550/ARXIV.2203.09203}{\emph{A
+  rellich type theorem for the generalized oscillator}}, 2022.
   \url{https://arxiv.org/abs/2203.09203}.
 
 \bibitem[Tak22]{Takasaki2022}
-K.~Takasaki, \emph{Extended lattice gelfand-dickey hierarchy}, 2022.
-  \url{https://arxiv.org/abs/2203.06621}.
+K.~Takasaki,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2203.06621}{\emph{Extended lattice
+  gelfand-dickey hierarchy}}, 2022. \url{https://arxiv.org/abs/2203.06621}.
+
+\bibitem[Var22]{varlamov2022spinors}
+V.~V. Varlamov, \emph{Spinors in $\mathbb{K}$-hilbert spaces}, 2022.
+  \href{http://arxiv.org/abs/2204.10808}{{\arxivfont arXiv:2204.10808
+  [math-ph]}}.
 
 \bibitem[vN21]{https://doi.org/10.48550/arxiv.2112.11166}
-J.~van Neerven, \emph{Functional analysis}, 2021.
-  \url{https://arxiv.org/abs/2112.11166}.
+J.~van Neerven,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2112.11166}{\emph{Functional
+  analysis}}, 2021. \url{https://arxiv.org/abs/2112.11166}.
 
 \bibitem[Wen22]{https://doi.org/10.48550/arxiv.2204.00983}
-C.~Wendlandt, \emph{The restricted quantum double of the yangian}, 2022.
+C.~Wendlandt, \doihref{http://dx.doi.org/10.48550/ARXIV.2204.00983}{\emph{The
+  restricted quantum double of the yangian}}, 2022.
   \url{https://arxiv.org/abs/2204.00983}.
 
 \bibitem[WT22]{Wang2022a}
-X.-B. Wang and S.-F. Tian, \emph{Inverse scattering transform of the general
-  coupled hirota system with nonzero boundary conditions}, 2022.
-  \url{https://arxiv.org/abs/2203.09699}.
+X.-B. Wang and S.-F. Tian,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2203.09699}{\emph{Inverse
+  scattering transform of the general coupled hirota system with nonzero
+  boundary conditions}}, 2022. \url{https://arxiv.org/abs/2203.09699}.
 
 \bibitem[WY22]{Wang2022}
-M.~Wang and G.~Yan, \emph{Homotopy transfer for qft on non-compact manifold
-  with boundary: a case study}, 2022. \url{https://arxiv.org/abs/2203.09071}.
+M.~Wang and G.~Yan,
+  \doihref{http://dx.doi.org/10.48550/ARXIV.2203.09071}{\emph{Homotopy transfer
+  for qft on non-compact manifold with boundary: a case study}}, 2022.
+  \url{https://arxiv.org/abs/2203.09071}.
 
 \bibitem[Xu91]{cmp/1104248717}
 P.~Xu, \emph{{Morita equivalence of Poisson manifolds}},
@@ -281,11 +382,13 @@ P.~Xu, \emph{{Morita equivalence of Poisson manifolds}},
   (1991) 493 -- 509}.
 
 \bibitem[Zaj22]{https://doi.org/10.48550/arxiv.2204.00561}
-M.~Zaj\c{a}c, \emph{The tulczyjew triple for gauge field theories}, 2022.
+M.~Zaj\c{a}c, \doihref{http://dx.doi.org/10.48550/ARXIV.2204.00561}{\emph{The
+  tulczyjew triple for gauge field theories}}, 2022.
   \url{https://arxiv.org/abs/2204.00561}.
 
 \bibitem[Zhu22]{https://doi.org/10.48550/arxiv.2204.00238}
-Y.~Zhu, \emph{Bimodues associated to twisted modules of vertex operator
-  algebras}, 2022. \url{https://arxiv.org/abs/2204.00238}.
+Y.~Zhu, \doihref{http://dx.doi.org/10.48550/ARXIV.2204.00238}{\emph{Bimodues
+  associated to twisted modules of vertex operator algebras}}, 2022.
+  \url{https://arxiv.org/abs/2204.00238}.
 
 \end{thebibliography}

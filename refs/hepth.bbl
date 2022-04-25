@@ -23,8 +23,8 @@ D.~Andriot, N.~Carqueville, and N.~Cribiori, \emph{{Looking for structure in
   [hep-th]}}.
 
 \bibitem[ACH22]{Arouca:2022psl}
-R.~Arouca, A.~Cappelli, and T.~H. Hansson, \emph{{Quantum Field Theory
-  Anomalies in Condensed Matter Physics}}, 4 2022.
+R.~Arouca, A.~Cappelli, and T.~H. Hansson, \emph{Quantum field theory anomalies
+  in condensed matter physics}, 4 2022.
   \href{http://arxiv.org/abs/2204.02158}{{\arxivfont arXiv:2204.02158
   [cond-mat.str-el]}}.
 
@@ -69,12 +69,24 @@ B.~Berche, T.~Ellis, Y.~Holovatch, and R.~Kenna,
   above the upper critical dimension}}, 2022.
   \url{https://arxiv.org/abs/2204.04761}.
 
+\bibitem[BHHH22]{Bao:2022rup}
+J.~Bao, Y.-H. He, E.~Heyes, and E.~Hirst, \emph{Machine learning algebraic
+  geometry for physics}, 4 2022.
+  \href{http://arxiv.org/abs/2204.10334}{{\arxivfont arXiv:2204.10334
+  [hep-th]}}.
+
 \bibitem[BK06]{Bellucci:2006ts}
 S.~Bellucci and S.~Krivonos, \emph{{Supersymmetric mechanics in superspace}},
   \doihref{http://dx.doi.org/10.1007/3-540-33314-2_2}{Lect. Notes Phys.
   \textbf{698} (2006) 49--96},
   \href{http://arxiv.org/abs/hep-th/0602199}{{\arxivfont
   arXiv:hep-th/0602199}}.
+
+\bibitem[BL19]{Bianchi:2019sxz}
+L.~Bianchi and M.~Lemos, \emph{{Superconformal surfaces in four dimensions}},
+  \doihref{http://dx.doi.org/10.1007/JHEP06(2020)056}{JHEP \textbf{06} (2020)
+  056}, \href{http://arxiv.org/abs/1911.05082}{{\arxivfont arXiv:1911.05082
+  [hep-th]}}.
 
 \bibitem[Bli22]{Bliard:2022xsm}
 G.~Bliard, \emph{{Notes on $n$-point Witten diagrams in AdS${}_2$}},
@@ -86,6 +98,12 @@ L.~Buoninfante, Y.~Miyashita, and M.~Yamaguchi,
   \doihref{http://dx.doi.org/10.48550/ARXIV.2203.16689}{\emph{Undecidable
   problems in quantum field theory}}, 2022.
   \url{https://arxiv.org/abs/2203.16689}.
+
+\bibitem[BO22]{Baules:2022gva}
+V.~Baules and N.~Okada, \emph{{Experimentally distinguishable origin for
+  electroweak symmetry breaking}},
+  \href{http://arxiv.org/abs/2204.10265}{{\arxivfont arXiv:2204.10265
+  [hep-ph]}}.
 
 \bibitem[BT17]{Bhardwaj:2017xup}
 L.~Bhardwaj and Y.~Tachikawa, \emph{{On finite symmetries and their gauging in
@@ -110,6 +128,12 @@ M.~Cvetic, J.~Halverson, G.~Shiu, and W.~Taylor, \emph{{Snowmass White Paper:
   String Theory and Particle Physics}},
   \href{http://arxiv.org/abs/2204.01742}{{\arxivfont arXiv:2204.01742
   [hep-th]}}.
+
+\bibitem[CJM20]{Carbone:2020kdb}
+L.~Carbone, E.~Jurisich, and S.~H. Murray, \emph{{Constructing a Lie group
+  analog for the Monster Lie algebra}},
+  \href{http://arxiv.org/abs/2002.06658}{{\arxivfont arXiv:2002.06658
+  [math.RT]}}.
 
 \bibitem[CKS94]{Cooper:1994eh}
 F.~Cooper, A.~Khare, and U.~Sukhatme, \emph{{Supersymmetry and quantum
@@ -349,6 +373,13 @@ K.~Roumpedakis, S.~Seifnashri, and S.-H. Shao, \emph{{Higher Gauging and
   \href{http://arxiv.org/abs/2204.02407}{{\arxivfont arXiv:2204.02407
   [hep-th]}}.
 
+\bibitem[Sat21]{Sato:2021ftf}
+Y.~Sato, \emph{{Complexity in a moving mirror model}},
+  \doihref{http://dx.doi.org/10.1103/PhysRevD.105.086016}{Phys. Rev. D
+  \textbf{105} (2022) 086016},
+  \href{http://arxiv.org/abs/2108.04637}{{\arxivfont arXiv:2108.04637
+  [hep-th]}}.
+
 \bibitem[Sch92]{Schwarz:1992nx}
 A.~S. Schwarz, \emph{{Geometry of Batalin-Vilkovisky quantization}},
   \doihref{http://dx.doi.org/10.1007/BF02097392}{Commun. Math. Phys.
@@ -429,8 +460,8 @@ Y.~Tachikawa, \doihref{http://dx.doi.org/10.48550/ARXIV.1108.5632}{\emph{A
   \url{https://arxiv.org/abs/1108.5632}.
 
 \bibitem[Tac13]{Tachikawa:2013kta}
-\bysame, \doihref{http://dx.doi.org/10.1007/978-3-319-08822-8}{\emph{{N=2
-  supersymmetric dynamics for pedestrians}}}, 12 2013.
+\bysame, \doihref{http://dx.doi.org/10.1007/978-3-319-08822-8}{\emph{N=2
+  supersymmetric dynamics for pedestrians}}, 12 2013.
   \href{http://arxiv.org/abs/1312.2684}{{\arxivfont arXiv:1312.2684 [hep-th]}}.
 
 \bibitem[TT11]{Tachikawa:2011yr}
