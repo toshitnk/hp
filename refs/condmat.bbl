@@ -7,7 +7,13 @@
 \providecommand{\href}[2]{#2}
 \providecommand{\doihref}[2]{\href{#1}{#2}}
 \providecommand{\arxivfont}{\tt}
-\begin{thebibliography}{SRFL08}
+\begin{thebibliography}{BCDL19}
+
+\bibitem[BCDL19]{Brodie:2019ozt}
+C.~R. Brodie, A.~Constantin, R.~Deen, and A.~Lukas, \emph{{Topological Formulae
+  for the Zeroth Cohomology of Line Bundles on del Pezzo and Hirzebruch
+  Surfaces}}, \href{http://arxiv.org/abs/1906.08363}{{\arxivfont
+  arXiv:1906.08363 [math.AG]}}.
 
 \bibitem[CW22]{Chevalier_2022}
 C.~Chevalier and B.~M. Wong, \emph{{HADOKEN}: An open-source software package
@@ -69,6 +75,12 @@ J.~McGreevy, \emph{{Generalized Symmetries in Condensed Matter}},
 G.~B. Mbeng, A.~Russomanno, and G.~E. Santoro,
   \doihref{http://dx.doi.org/10.48550/ARXIV.2009.09208}{\emph{The quantum ising
   chain for beginners}}, 2020. \url{https://arxiv.org/abs/2009.09208}.
+
+\bibitem[NLY18]{Ning:2018shj}
+S.-Q. Ning, Z.-X. Liu, and P.~Ye, \emph{{Fractionalizing Global Symmetry on
+  Looplike Topological Excitations}},
+  \href{http://arxiv.org/abs/1801.01638}{{\arxivfont arXiv:1801.01638
+  [cond-mat.str-el]}}.
 
 \bibitem[Ons44]{PhysRev.65.117}
 L.~Onsager, \emph{Crystal statistics. i. a two-dimensional model with an

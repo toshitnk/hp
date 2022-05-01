@@ -75,6 +75,11 @@ A.~Boukas, \emph{Spectral theorem approach to the characteristic function of
   \href{http://arxiv.org/abs/2204.10528}{{\arxivfont arXiv:2204.10528
   [math-ph]}}.
 
+\bibitem[Bur22]{burchardt2022symmetry}
+A.~Burchardt, \emph{Symmetry and classification of multipartite entangled
+  states}, 2022. \href{http://arxiv.org/abs/2204.13441}{{\arxivfont
+  arXiv:2204.13441 [quant-ph]}}.
+
 \bibitem[Car21]{https://doi.org/10.48550/arxiv.2107.14176}
 V.~Carmona, \doihref{http://dx.doi.org/10.48550/ARXIV.2107.14176}{\emph{New
   model structures for algebraic quantum field theory}}, 2021.
@@ -212,6 +217,12 @@ J.~E. Gough, \doihref{http://dx.doi.org/10.48550/ARXIV.2203.09296}{\emph{Field
   calculus: quantum and statistical field theory without the feynman
   diagrams}}, 2022. \url{https://arxiv.org/abs/2203.09296}.
 
+\bibitem[GRZ22]{grfnitz2022proper}
+T.~Gr^^c3^^a4fnitz, H.~Ruddat, and E.~Zaslow, \emph{The proper landau-ginzburg
+  potential is the open mirror map}, 2022.
+  \href{http://arxiv.org/abs/2204.12249}{{\arxivfont arXiv:2204.12249
+  [math.AG]}}.
+
 \bibitem[Hin22]{https://doi.org/10.48550/arxiv.2204.00287}
 B.~Hinrichs,
   \doihref{http://dx.doi.org/10.48550/ARXIV.2204.00287}{\emph{Existence of
@@ -304,17 +315,33 @@ A.~Negu^^c5^^a3,
   \doihref{http://dx.doi.org/10.48550/ARXIV.1711.00390}{\emph{Agt relations for
   sheaves on surfaces}}, 2017. \url{https://arxiv.org/abs/1711.00390}.
 
+\bibitem[Oni22]{onishchik2022action}
+A.~Onishchik, \emph{Action of vectorial lie superalgebras on some split
+  supermanifolds}, 2022. \href{http://arxiv.org/abs/2204.11036}{{\arxivfont
+  arXiv:2204.11036 [math-ph]}}.
+
 \bibitem[PBHF22]{https://doi.org/10.48550/arxiv.2204.01843}
 E.~Patterson, A.~Baas, T.~Hosgood, and J.~Fairbanks,
   \doihref{http://dx.doi.org/10.48550/ARXIV.2204.01843}{\emph{A diagrammatic
   view of differential equations in physics}}, 2022.
   \url{https://arxiv.org/abs/2204.01843}.
 
+\bibitem[Ply22]{plymen20222spinors}
+R.~Plymen, \emph{$2$-spinors via linear algebra}, 2022.
+  \href{http://arxiv.org/abs/2204.12842}{{\arxivfont arXiv:2204.12842
+  [math-ph]}}.
+
 \bibitem[Rab20]{https://doi.org/10.48550/arxiv.2008.04953}
 E.~Rabinovich,
   \doihref{http://dx.doi.org/10.48550/ARXIV.2008.04953}{\emph{Factorization
   algebras for classical bulk-boundary systems}}, 2020.
   \url{https://arxiv.org/abs/2008.04953}.
+
+\bibitem[Rej20]{Rejzner:2020bsc}
+K.~Rejzner, \emph{Bv quantization in perturbative algebraic qft: Fundamental
+  concepts and perspectives}, 4 2020.
+  \href{http://arxiv.org/abs/2004.14272}{{\arxivfont arXiv:2004.14272
+  [math-ph]}}.
 
 \bibitem[RTT22]{Raymond2022}
 C.~Raymond, Y.~Tanimoto, and J.~E. Tener,
@@ -358,6 +385,11 @@ V.~V. Varlamov, \emph{Spinors in $\mathbb{K}$-hilbert spaces}, 2022.
 J.~van Neerven,
   \doihref{http://dx.doi.org/10.48550/ARXIV.2112.11166}{\emph{Functional
   analysis}}, 2021. \url{https://arxiv.org/abs/2112.11166}.
+
+\bibitem[Wau22]{waurick2022nonlocal}
+M.~Waurick, \emph{Nonlocal $h$-convergence for topologically nontrivial
+  domains}, 2022. \href{http://arxiv.org/abs/2204.12315}{{\arxivfont
+  arXiv:2204.12315 [math.AP]}}.
 
 \bibitem[Wen22]{https://doi.org/10.48550/arxiv.2204.00983}
 C.~Wendlandt, \doihref{http://dx.doi.org/10.48550/ARXIV.2204.00983}{\emph{The
