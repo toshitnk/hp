@@ -21,6 +21,12 @@ G.~Angelone, P.~Facchi, and G.~Marmo, \emph{{Hearing the shape of a quantum
   boundary condition}}, \href{http://arxiv.org/abs/2204.10248}{{\arxivfont
   arXiv:2204.10248 [quant-ph]}}.
 
+\bibitem[AZ22]{Atalikov2022}
+K.~Atalikov and A.~Zotov, \emph{{Higher rank 1+1 integrable Landau-Lifshitz
+  field theories from associative Yang-Baxter equation}},
+  \href{http://arxiv.org/abs/2204.12576}{{\arxivfont arXiv:2204.12576
+  [math-ph]}}.
+
 \bibitem[BC22]{Bols2022}
 A.~Bols and C.~Cedzich,
   \doihref{http://dx.doi.org/10.48550/ARXIV.2203.05474}{\emph{Absolutely
@@ -62,6 +68,11 @@ J.~Branahl and A.~Hock, \emph{A spectral curve for the generation of bipartite
   maps in topological recursion}, 2022.
   \href{http://arxiv.org/abs/2204.05181}{{\arxivfont arXiv:2204.05181
   [math-ph]}}.
+
+\bibitem[BK22]{Bhoja2022}
+N.~Bhoja and K.~Krasnov, \emph{{Notes on Spinors and Polyforms II: Quaternions
+  and Octonions}}, \href{http://arxiv.org/abs/2205.05447}{{\arxivfont
+  arXiv:2205.05447 [math-ph]}}.
 
 \bibitem[BKS20]{Borot2020}
 G.~Borot, R.~Kramer, and Y.~Sch^^c3^^bcler,
@@ -143,6 +154,11 @@ M.~Calixto, A.~Mayorgas, and J.~Guerrero, \emph{{Quantization on Grassmann
   factor $\nu=M/f$}}, \doihref{http://dx.doi.org/10.3390/sym14050872}{Symmetry
   \textbf{14} (2022) 872}, \href{http://arxiv.org/abs/1904.06932}{{\arxivfont
   arXiv:1904.06932 [cond-mat.mes-hall]}}.
+
+\bibitem[Cos22]{Cosserat2022}
+O.~Cosserat, \emph{Symplectic groupoids for poisson integrators}, 2022.
+  \href{http://arxiv.org/abs/2205.04838}{{\arxivfont arXiv:2205.04838
+  [math.DG]}}.
 
 \bibitem[CRV21]{crawford2021lorentzian}
 S.~Crawford, K.~Rejzner, and B.~Vicedo, \emph{Lorentzian 2d cft from the paqft
