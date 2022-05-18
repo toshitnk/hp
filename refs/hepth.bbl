@@ -103,6 +103,12 @@ V.~Benedetti, H.~Casini, and J.~M. Magan, \emph{{Generalized symmetries and
   \href{http://arxiv.org/abs/2205.03412}{{\arxivfont arXiv:2205.03412
   [hep-th]}}.
 
+\bibitem[BDLV22]{Bonanno2022}
+C.~Bonanno, M.~D'Elia, B.~Lucini, and D.~Vadacchino, \emph{{Towards glueball
+  masses of large-$N$$\mathrm{SU}(N)$ pure-gauge theories without topological
+  freezing}}, \href{http://arxiv.org/abs/2205.06190}{{\arxivfont
+  arXiv:2205.06190 [hep-lat]}}.
+
 \bibitem[BEHK22]{https://doi.org/10.48550/arxiv.2204.04761}
 B.~Berche, T.~Ellis, Y.~Holovatch, and R.~Kenna,
   \doihref{http://dx.doi.org/10.48550/ARXIV.2204.04761}{\emph{Phase transitions
@@ -224,15 +230,31 @@ F.~Cooper, A.~Khare, and U.~Sukhatme, \emph{{Supersymmetry and quantum
   \href{http://arxiv.org/abs/hep-th/9405029}{{\arxivfont
   arXiv:hep-th/9405029}}.
 
+\bibitem[CL22]{Caputa2022}
+P.~Caputa and S.~Liu, \emph{{Quantum complexity and topological phases of
+  matter}}, \href{http://arxiv.org/abs/2205.05688}{{\arxivfont arXiv:2205.05688
+  [hep-th]}}.
+
 \bibitem[CLS22]{Choi2022}
 Y.~Choi, H.~T. Lam, and S.-H. Shao, \emph{{Non-invertible Global Symmetries in
   the Standard Model}}, \href{http://arxiv.org/abs/2205.05086}{{\arxivfont
   arXiv:2205.05086 [hep-th]}}.
 
-\bibitem[CO22]{Choi:2022odr}
+\bibitem[CM22]{Campos2022}
+J.~a. G.~F. Campos and A.~Mohammadi, \emph{{Kink-antikink collision in the
+  supersymmetric $\phi^4$ model}},
+  \href{http://arxiv.org/abs/2205.06869}{{\arxivfont arXiv:2205.06869
+  [hep-th]}}.
+
+\bibitem[CO22a]{Choi:2022odr}
 Y.~Choi and K.~Ohmori, \emph{{Higher Berry Phase of Fermions and Index
   Theorem}}, \href{http://arxiv.org/abs/2205.02188}{{\arxivfont
   arXiv:2205.02188 [hep-th]}}.
+
+\bibitem[CO22b]{Cordova2022}
+C.~Cordova and K.~Ohmori, \emph{{Non-Invertible Chiral Symmetry and Exponential
+  Hierarchies}}, \href{http://arxiv.org/abs/2205.06243}{{\arxivfont
+  arXiv:2205.06243 [hep-th]}}.
 
 \bibitem[CQSV22a]{Crino:2022zjk}
 C.~Crin\`o, F.~Quevedo, A.~Schachner, and R.~Valandro, \emph{{A Database of
@@ -294,6 +316,12 @@ J.~Frohlich, O.~Grandjean, and A.~Recknagel, \emph{{Supersymmetric quantum
   \href{http://arxiv.org/abs/hep-th/9706132}{{\arxivfont
   arXiv:hep-th/9706132}}.
 
+\bibitem[FJ22]{Feher2022}
+L.~Feher and B.~Juhasz, \emph{{A note on quadratic Poisson brackets on
+  ${\mathrm{gl}}(n,{\mathbb{R}})$ related to Toda lattices}},
+  \href{http://arxiv.org/abs/2204.02077}{{\arxivfont arXiv:2204.02077
+  [math-ph]}}.
+
 \bibitem[FK20]{Futaki:2020kpa}
 M.~Futaki and H.~Kajiura, \emph{{Homological mirror symmetry of $\mathbb{C}P^n$
   and their products via Morse homotopy}},
@@ -334,6 +362,14 @@ M.~Garcia-Fernandez, R.~Rubio, and C.~Tipler, \emph{{Gauge theory for string
   algebroids}}, \href{http://arxiv.org/abs/2004.11399}{{\arxivfont
   arXiv:2004.11399 [math.DG]}}.
 
+\bibitem[GHSS20]{Gates2020}
+S.~J. Gates, G.~Hannon, R.~X. Siew, and K.~Stiffler,
+  \emph{{Infinite-Dimensional Algebraic $\mathfrak{Spin}$($N$) Structure in
+  Extended/Higher Dimensional SUSY Holoraumy for Valise and On-Shell
+  Supermultiplet Representations}},
+  \href{http://arxiv.org/abs/2010.06124}{{\arxivfont arXiv:2010.06124
+  [hep-th]}}.
+
 \bibitem[GJF19]{Gaiotto:2019xmp}
 D.~Gaiotto and T.~Johnson-Freyd, \emph{{Condensations in higher categories}},
   \href{http://arxiv.org/abs/1905.09566}{{\arxivfont arXiv:1905.09566
@@ -344,6 +380,11 @@ C.~J. Grewcoe, L.~Jonke, T.~Kodzoman, and G.~Manolakos, \emph{{From Hopf
   algebra to braided $L_\infty$-algebra}},
   \href{http://arxiv.org/abs/2204.01352}{{\arxivfont arXiv:2204.01352
   [hep-th]}}.
+
+\bibitem[GLTT22]{Girelli2022}
+F.~Girelli, M.~Laudonio, A.~Tanasa, and P.~Tsimiklis, \emph{{Group field theory
+  on 2-groups}}, \href{http://arxiv.org/abs/2205.05837}{{\arxivfont
+  arXiv:2205.05837 [hep-th]}}.
 
 \bibitem[GMSZ20]{Gu:2020zpg}
 W.~Gu, L.~Mihalcea, E.~Sharpe, and H.~Zou, \emph{{Quantum K theory of
@@ -498,6 +539,12 @@ M.~Kruczenski, J.~Penedones, and B.~C. van Rees, \emph{{Snowmass White Paper:
   S-matrix Bootstrap}}, \href{http://arxiv.org/abs/2203.02421}{{\arxivfont
   arXiv:2203.02421 [hep-th]}}.
 
+\bibitem[KS22]{Kaplan2022}
+D.~B. Kaplan and S.~Sen, \emph{{Generalized Hall currents in topological
+  insulators and superconductors}},
+  \href{http://arxiv.org/abs/2205.05707}{{\arxivfont arXiv:2205.05707
+  [cond-mat.str-el]}}.
+
 \bibitem[KT11]{Kanno:2011fw}
 H.~Kanno and Y.~Tachikawa, \emph{{Instanton counting with a surface operator
   and the chain-saw quiver}},
@@ -537,6 +584,11 @@ J.~Kaidi, G.~Zafrir, and Y.~Zheng, \emph{{Non-Invertible Symmetries of
 \bibitem[LF20]{LeFloch:2020uop}
 B.~Le~Floch, \emph{{A slow review of the AGT correspondence}},
   \href{http://arxiv.org/abs/2006.14025}{{\arxivfont arXiv:2006.14025
+  [hep-th]}}.
+
+\bibitem[Li21]{Li2021}
+W.~Li, \emph{{Ising model close to $d=2$}},
+  \href{http://arxiv.org/abs/2107.13679}{{\arxivfont arXiv:2107.13679
   [hep-th]}}.
 
 \bibitem[LL22]{Losev:2022tzr}
@@ -586,6 +638,12 @@ Y.~Murakami, \emph{{Witten-Reshetikhin-Turaev invariants and homological blocks
   \href{http://arxiv.org/abs/2205.01282}{{\arxivfont arXiv:2205.01282
   [math.GT]}}.
 
+\bibitem[NO22]{Nakajima2022}
+K.~Nakajima and K.~Okunishi, \emph{{Angular-time evolution for the
+  Affleck-Kennedy-Lieb-Tasaki chain and its edge-state dynamics}},
+  \href{http://arxiv.org/abs/2205.06428}{{\arxivfont arXiv:2205.06428
+  [cond-mat.stat-mech]}}.
+
 \bibitem[Noe0d]{doi:10.1080/00411457108231446}
 E.~Noether, \emph{Invariant variation problems},
   \href{https://doi.org/10.1080/00411457108231446}{Transport Theory and
@@ -609,6 +667,19 @@ K.~Nunotani and Z.~Yoshida, \emph{Clebsch representation of relativistic plasma
 V.~V. Obukhov, \emph{{Maxwell's equations in homogeneous spaces for admissible
   electromagnetic fields}}, \href{http://arxiv.org/abs/2204.07031}{{\arxivfont
   arXiv:2204.07031 [gr-qc]}}.
+
+\bibitem[OS17]{Oak2017}
+P.~Oak and B.~Sathiapalan, \emph{{Exact Renormalization Group and Sine Gordon
+  Theory}}, \doihref{http://dx.doi.org/10.1007/JHEP07(2017)103}{JHEP
+  \textbf{07} (2017) 103}, \href{http://arxiv.org/abs/1703.01591}{{\arxivfont
+  arXiv:1703.01591 [hep-th]}}. [Erratum: JHEP 09, 077 (2017)].
+
+\bibitem[Osu21]{Osuga2022}
+K.~Osuga, \emph{{Super Topological Recursion and Gaiotto Vectors For
+  Superconformal Blocks}},
+  \doihref{http://dx.doi.org/10.1007/s11005-022-01541-2}{Lett. Math. Phys.
+  \textbf{112} (2022) 48}, \href{http://arxiv.org/abs/2107.04588}{{\arxivfont
+  arXiv:2107.04588 [math-ph]}}.
 
 \bibitem[OV22]{Olivucci2022}
 E.~Olivucci and P.~Vieira, \emph{{Stampedes II: Null Polygons in Conformal
@@ -644,6 +715,12 @@ D.~Poland and D.~Simmons-Duffin, \emph{{Snowmass White Paper: The Numerical
   Conformal Bootstrap}}, {2022 Snowmass Summer Study}, 3 2022.
   \href{http://arxiv.org/abs/2203.08117}{{\arxivfont arXiv:2203.08117
   [hep-th]}}.
+
+\bibitem[Qn22]{Quinones2022}
+J.~C.~V. Qui\~nones, \emph{{A unified field theory from a complexified
+  quaternion-octonion Dirac equation}},
+  \href{http://arxiv.org/abs/2205.06657}{{\arxivfont arXiv:2205.06657
+  [physics.gen-ph]}}.
 
 \bibitem[RM22]{Rao:2022uoj}
 A.~K. Rao and R.~P. Malik, \emph{{Nilpotent Symmetries of a Modified Massive
@@ -777,6 +854,19 @@ Y.~Tachikawa, \doihref{http://dx.doi.org/10.48550/ARXIV.1108.5632}{\emph{A
 \bysame, \doihref{http://dx.doi.org/10.1007/978-3-319-08822-8}{\emph{N=2
   supersymmetric dynamics for pedestrians}}, 12 2013.
   \href{http://arxiv.org/abs/1312.2684}{{\arxivfont arXiv:1312.2684 [hep-th]}}.
+
+\bibitem[TLJHG22]{Toledo2022}
+J.~Toledo, R.~Lipinski~Jusinskas, C.~A. Hernaski, and P.~R.~S. Gomes,
+  \emph{{Quantum Wires, Chern-Simons, and Dualities in the Quantum Hall
+  System}}, \href{http://arxiv.org/abs/2205.08488}{{\arxivfont arXiv:2205.08488
+  [cond-mat.str-el]}}.
+
+\bibitem[Top22]{Toppan2022}
+F.~Toppan, \emph{{First quantization of braided Majorana fermions}},
+  \doihref{http://dx.doi.org/10.1016/j.nuclphysb.2022.115834}{Nucl. Phys. B
+  \textbf{980} (2022) 115834},
+  \href{http://arxiv.org/abs/2203.01776}{{\arxivfont arXiv:2203.01776
+  [hep-th]}}.
 
 \bibitem[TT11]{Tachikawa:2011yr}
 Y.~Tachikawa and S.~Terashima, \emph{{Seiberg-Witten Geometries Revisited}},

@@ -7,13 +7,35 @@
 \providecommand{\href}[2]{#2}
 \providecommand{\doihref}[2]{\href{#1}{#2}}
 \providecommand{\arxivfont}{\tt}
-\begin{thebibliography}{BCDL19}
+\begin{thebibliography}{CKKK22}
 
 \bibitem[BCDL19]{Brodie:2019ozt}
 C.~R. Brodie, A.~Constantin, R.~Deen, and A.~Lukas, \emph{{Topological Formulae
   for the Zeroth Cohomology of Line Bundles on del Pezzo and Hirzebruch
   Surfaces}}, \href{http://arxiv.org/abs/1906.08363}{{\arxivfont
   arXiv:1906.08363 [math.AG]}}.
+
+\bibitem[CKKK22]{camacho2022review}
+G.~Camacho, C.~Kl^^c3^^b6ckner, D.~M. Kennes, and C.~Karrasch, \emph{Review of
+  recent developments of the functional renormalization group for systems out
+  of equilibrium}, 2022. \href{http://arxiv.org/abs/2205.00919}{{\arxivfont
+  arXiv:2205.00919 [cond-mat.str-el]}}.
+
+\bibitem[CMG19a]{Calixto:2019qwm}
+M.~Calixto, A.~Mayorgas, and J.~Guerrero, \emph{{Quantization on Grassmann
+  phase spaces $U(N)/U(M)\times U(N-M)$ and rectangular $M\times f$ Young
+  tableaux with applications to $U(N)$ quantum Hall ferromagnets at filling
+  factor $\nu=M/f$}}, \doihref{http://dx.doi.org/10.3390/sym14050872}{Symmetry
+  \textbf{14} (2022) 872}, \href{http://arxiv.org/abs/1904.06932}{{\arxivfont
+  arXiv:1904.06932 [cond-mat.mes-hall]}}.
+
+\bibitem[CMG19b]{Calixto2022}
+\bysame, \emph{{Quantization on Grassmann phase spaces $U(N)/U(M)\times U(N-M)$
+  and rectangular $M\times f$ Young tableaux with applications to $U(N)$
+  quantum Hall ferromagnets at filling factor $\nu=M/f$}},
+  \doihref{http://dx.doi.org/10.3390/sym14050872}{Symmetry \textbf{14} (2022)
+  872}, \href{http://arxiv.org/abs/1904.06932}{{\arxivfont arXiv:1904.06932
+  [cond-mat.mes-hall]}}.
 
 \bibitem[CW22]{Chevalier_2022}
 C.~Chevalier and B.~M. Wong, \emph{{HADOKEN}: An open-source software package
@@ -76,6 +98,12 @@ G.~B. Mbeng, A.~Russomanno, and G.~E. Santoro,
   \doihref{http://dx.doi.org/10.48550/ARXIV.2009.09208}{\emph{The quantum ising
   chain for beginners}}, 2020. \url{https://arxiv.org/abs/2009.09208}.
 
+\bibitem[MT22]{maekawa2022asymmetric}
+D.~Maekawa and H.~Tasaki, \emph{The asymmetric valence-bond-solid states in
+  quantum spin chains: The difference between odd and even spins}, 2022.
+  \href{http://arxiv.org/abs/2205.00653}{{\arxivfont arXiv:2205.00653
+  [cond-mat.stat-mech]}}.
+
 \bibitem[NLY18]{Ning:2018shj}
 S.-Q. Ning, Z.-X. Liu, and P.~Ye, \emph{{Fractionalizing Global Symmetry on
   Looplike Topological Excitations}},
@@ -88,6 +116,14 @@ L.~Onsager, \emph{Crystal statistics. i. a two-dimensional model with an
   \href{https://link.aps.org/doi/10.1103/PhysRev.65.117}{Phys. Rev. \textbf{65}
   (1944) 117--149}.
 
+\bibitem[OO11]{Ooguri:2011aa}
+H.~Ooguri and M.~Oshikawa, \emph{{Instability in magnetic materials with
+  dynamical axion field}},
+  \doihref{http://dx.doi.org/10.1103/PhysRevLett.108.161803}{Phys. Rev. Lett.
+  \textbf{108} (2012) 161803},
+  \href{http://arxiv.org/abs/1112.1414}{{\arxivfont arXiv:1112.1414
+  [cond-mat.mes-hall]}}.
+
 \bibitem[PV00]{Pelissetto:2000ek}
 A.~Pelissetto and E.~Vicari, \emph{{Critical phenomena and renormalization
   group theory}},
@@ -95,6 +131,11 @@ A.~Pelissetto and E.~Vicari, \emph{{Critical phenomena and renormalization
   \textbf{368} (2002) 549--727},
   \href{http://arxiv.org/abs/cond-mat/0012164}{{\arxivfont
   arXiv:cond-mat/0012164}}.
+
+\bibitem[San22]{santos2022topological}
+M.~B. Santos, \emph{Topological band systems and finite size effects}, 2022.
+  \href{http://arxiv.org/abs/2205.01227}{{\arxivfont arXiv:2205.01227
+  [cond-mat.mes-hall]}}.
 
 \bibitem[Shi19]{Shiraishi_2019}
 N.~Shiraishi, \emph{Proof of the absence of local conserved quantities in the
@@ -134,6 +175,11 @@ M.~Suzuki, \emph{{Relationship between d-Dimensional Quantal Spin Systems and
 H.~Tasaki, \emph{{The Lieb-Schultz-Mattis Theorem: A Topological Point of
   View}}, \href{http://arxiv.org/abs/2202.06243}{{\arxivfont arXiv:2202.06243
   [cond-mat.stat-mech]}}.
+
+\bibitem[VS22]{vu2022critical}
+D.~Vu and S.~D. Sarma, \emph{Critical topological anderson insulator}, 2022.
+  \href{http://arxiv.org/abs/2205.00015}{{\arxivfont arXiv:2205.00015
+  [cond-mat.mes-hall]}}.
 
 \bibitem[Wit15]{Witten:2015aba}
 E.~Witten, \emph{{Fermion Path Integrals And Topological Phases}},

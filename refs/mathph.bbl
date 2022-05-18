@@ -21,10 +21,21 @@ G.~Angelone, P.~Facchi, and G.~Marmo, \emph{{Hearing the shape of a quantum
   boundary condition}}, \href{http://arxiv.org/abs/2204.10248}{{\arxivfont
   arXiv:2204.10248 [quant-ph]}}.
 
+\bibitem[AGMM22]{Abdaoui2022}
+K.~Abdaoui, R.~Gharbi, S.~Mabrouk, and A.~Makhlouf, \emph{Cohomology and formal
+  deformations of n-hom-lie color algebras}, 2022.
+  \href{http://arxiv.org/abs/2205.08341}{{\arxivfont arXiv:2205.08341
+  [math.RA]}}.
+
 \bibitem[AZ22]{Atalikov2022}
 K.~Atalikov and A.~Zotov, \emph{{Higher rank 1+1 integrable Landau-Lifshitz
   field theories from associative Yang-Baxter equation}},
   \href{http://arxiv.org/abs/2204.12576}{{\arxivfont arXiv:2204.12576
+  [math-ph]}}.
+
+\bibitem[Bar19]{Barth2019}
+L.~Barth, \emph{A mathematical framework to compare classical field theories},
+  2019. \href{http://arxiv.org/abs/1910.08614}{{\arxivfont arXiv:1910.08614
   [math-ph]}}.
 
 \bibitem[BC22]{Bols2022}
@@ -252,6 +263,12 @@ P.~J. Forrester, \doihref{http://dx.doi.org/10.48550/ARXIV.2204.03303}{\emph{A
   review of exact results for fluctuation formulas in random matrix theory}},
   2022. \url{https://arxiv.org/abs/2204.03303}.
 
+\bibitem[FS22]{Filimoshina2022}
+E.~R. Filimoshina and D.~S. Shirokov, \emph{On generalization of lipschitz
+  groups and spin groups}, 2022.
+  \href{http://arxiv.org/abs/2205.06045}{{\arxivfont arXiv:2205.06045
+  [math-ph]}}.
+
 \bibitem[FSS20]{Fiorenza:2020iax}
 D.~Fiorenza, H.~Sati, and U.~Schreiber, \emph{{Twistorial Cohomotopy implies
   Green-Schwarz anomaly cancellation}},
@@ -372,6 +389,12 @@ A.~Onishchik, \emph{Action of vectorial lie superalgebras on some split
   supermanifolds}, 2022. \href{http://arxiv.org/abs/2204.11036}{{\arxivfont
   arXiv:2204.11036 [math-ph]}}.
 
+\bibitem[Pai22]{Pain2022}
+J.-C. Pain, \emph{Sum rules for clebsch-gordan coefficients from group theory
+  and runge-lenz-pauli vector}, 2022.
+  \href{http://arxiv.org/abs/2205.06151}{{\arxivfont arXiv:2205.06151
+  [math-ph]}}.
+
 \bibitem[PBHF22]{https://doi.org/10.48550/arxiv.2204.01843}
 E.~Patterson, A.~Baas, T.~Hosgood, and J.~Fairbanks,
   \doihref{http://dx.doi.org/10.48550/ARXIV.2204.01843}{\emph{A diagrammatic
@@ -433,6 +456,12 @@ K.~Takasaki,
   \doihref{http://dx.doi.org/10.48550/ARXIV.2203.06621}{\emph{Extended lattice
   gelfand-dickey hierarchy}}, 2022. \url{https://arxiv.org/abs/2203.06621}.
 
+\bibitem[TY22]{Tang2022}
+X.~Tang and J.~Yan, \emph{Calabi-yau/landau-ginzburg correspondence for
+  weil-peterson metrics and $tt^*$ structures}, 2022.
+  \href{http://arxiv.org/abs/2205.05791}{{\arxivfont arXiv:2205.05791
+  [math-ph]}}.
+
 \bibitem[Var22]{varlamov2022spinors}
 V.~V. Varlamov, \emph{Spinors in $\mathbb{K}$-hilbert spaces}, 2022.
   \href{http://arxiv.org/abs/2204.10808}{{\arxivfont arXiv:2204.10808
@@ -485,6 +514,11 @@ D.~Yang, \emph{Gue via frobenius manifolds. i. from matrix gravity to
 M.~Zaj\c{a}c, \doihref{http://dx.doi.org/10.48550/ARXIV.2204.00561}{\emph{The
   tulczyjew triple for gauge field theories}}, 2022.
   \url{https://arxiv.org/abs/2204.00561}.
+
+\bibitem[Zel22]{Zelenov2022}
+E.~I. Zelenov, \emph{p-adic quantum calculus and ideals of compact operators},
+  2022. \href{http://arxiv.org/abs/2205.07977}{{\arxivfont arXiv:2205.07977
+  [math-ph]}}.
 
 \bibitem[Zhu22]{https://doi.org/10.48550/arxiv.2204.00238}
 Y.~Zhu, \doihref{http://dx.doi.org/10.48550/ARXIV.2204.00238}{\emph{Bimodues
