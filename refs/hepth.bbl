@@ -47,12 +47,6 @@ L.~F. Alday, D.~Gaiotto, and Y.~Tachikawa, \emph{{Liouville Correlation
   \textbf{91} (2010) 167--197},
   \href{http://arxiv.org/abs/0906.3219}{{\arxivfont arXiv:0906.3219 [hep-th]}}.
 
-\bibitem[AHM22]{Akamatsu2022}
-K.~Akamatsu, T.~Hirose, and N.~Maru, \emph{{Gauge Symmetry Breaking in Flux
-  Compactification with Wilson-line Scalar Condensate}},
-  \href{http://arxiv.org/abs/2205.09320}{{\arxivfont arXiv:2205.09320
-  [hep-th]}}.
-
 \bibitem[AJ22]{Agia:2022srj}
 N.~Agia and D.~L. Jafferis, \emph{{Angular Quantization in CFT}},
   \href{http://arxiv.org/abs/2204.11872}{{\arxivfont arXiv:2204.11872
@@ -131,12 +125,6 @@ J.~Bao, Y.-H. He, E.~Heyes, and E.~Hirst, \emph{Machine learning algebraic
   \href{http://arxiv.org/abs/2204.10334}{{\arxivfont arXiv:2204.10334
   [hep-th]}}.
 
-\bibitem[BHM22]{Bertucci2022}
-F.~Bertucci, J.~Henriksson, and B.~McPeak, \emph{{Analytic bootstrap of mixed
-  correlators in the $\boldsymbol{O(n)}$ CFT}},
-  \href{http://arxiv.org/abs/2205.09132}{{\arxivfont arXiv:2205.09132
-  [hep-th]}}.
-
 \bibitem[BK06]{Bellucci:2006ts}
 S.~Bellucci and S.~Krivonos, \emph{{Supersymmetric mechanics in superspace}},
   \doihref{http://dx.doi.org/10.1007/3-540-33314-2_2}{Lect. Notes Phys.
@@ -210,13 +198,6 @@ Y.~Choi, C.~Cordova, P.-S. Hsin, H.~T. Lam, and S.-H. Shao,
   \emph{{Non-invertible Condensation, Duality, and Triality Defects in 3+1
   Dimensions}}, \href{http://arxiv.org/abs/2204.09025}{{\arxivfont
   arXiv:2204.09025 [hep-th]}}.
-
-\bibitem[CDIS22]{Cordova2022a}
-C.~Cordova, T.~T. Dumitrescu, K.~Intriligator, and S.-H. Shao, \emph{{Snowmass
-  White Paper: Generalized Symmetries in Quantum Field Theory and Beyond}},
-  {2022 Snowmass Summer Study}, 5 2022.
-  \href{http://arxiv.org/abs/2205.09545}{{\arxivfont arXiv:2205.09545
-  [hep-th]}}.
 
 \bibitem[CH22]{Chicherin:2022zxo}
 D.~Chicherin and J.~Henn, \emph{{Pentagon Wilson loop with Lagrangian insertion
@@ -657,12 +638,6 @@ Y.~Murakami, \emph{{Witten-Reshetikhin-Turaev invariants and homological blocks
   \href{http://arxiv.org/abs/2205.01282}{{\arxivfont arXiv:2205.01282
   [math.GT]}}.
 
-\bibitem[Niv22]{Nivesvivat2022}
-R.~Nivesvivat, \emph{{Global symmetry and conformal bootstrap in the
-  two-dimensional $Q$-state Potts model}},
-  \href{http://arxiv.org/abs/2205.09349}{{\arxivfont arXiv:2205.09349
-  [hep-th]}}.
-
 \bibitem[NO22]{Nakajima2022}
 K.~Nakajima and K.~Okunishi, \emph{{Angular-time evolution for the
   Affleck-Kennedy-Lieb-Tasaki chain and its edge-state dynamics}},
@@ -715,13 +690,6 @@ E.~Olivucci and P.~Vieira, \emph{{Stampedes II: Null Polygons in Conformal
 H.~Ouyang and J.-B. Wu, \emph{Fermionic bogomolnyi-prasad-sommerfield wilson
   loops in four-dimensional $\mathcal{N}=2$ superconformal gauge theories},
   \href{http://arxiv.org/abs/2205.01348}{{\arxivfont arXiv:2205.01348
-  [hep-th]}}.
-
-\bibitem[Par22]{Park2022}
-J.-H. Park,
-  \doihref{http://dx.doi.org/10.1007/s40042-022-00493-z}{\emph{{Lecture note on
-  Clifford algebra}}}, 5 2022.
-  \href{http://arxiv.org/abs/2205.09509}{{\arxivfont arXiv:2205.09509
   [hep-th]}}.
 
 \bibitem[Pav22]{Pavsic:2022hel}
@@ -778,11 +746,6 @@ Y.~Ruan, \emph{{Stringy geometry and topology of orbifolds}},
 \bibitem[Rua02]{Ruan:2002ha}
 Y.-b. Ruan, \emph{{Stringy orbifolds}},
   \href{http://arxiv.org/abs/math/0201123}{{\arxivfont arXiv:math/0201123}}.
-
-\bibitem[RV22]{Rajeev2022}
-S.~G. Rajeev and P.~Vitale, \emph{{The Mass Hyperboloid as a Poisson-Lie
-  Group}}, 5 2022. \href{http://arxiv.org/abs/2205.09468}{{\arxivfont
-  arXiv:2205.09468 [hep-th]}}.
 
 \bibitem[Sat21]{Sato:2021ftf}
 Y.~Sato, \emph{{Complexity in a moving mirror model}},
@@ -891,12 +854,6 @@ Y.~Tachikawa, \doihref{http://dx.doi.org/10.48550/ARXIV.1108.5632}{\emph{A
 \bysame, \doihref{http://dx.doi.org/10.1007/978-3-319-08822-8}{\emph{N=2
   supersymmetric dynamics for pedestrians}}, 12 2013.
   \href{http://arxiv.org/abs/1312.2684}{{\arxivfont arXiv:1312.2684 [hep-th]}}.
-
-\bibitem[Tac17]{Tachikawa2020}
-\bysame, \emph{{On gauging finite subgroups}},
-  \doihref{http://dx.doi.org/10.21468/SciPostPhys.8.1.015}{SciPost Phys.
-  \textbf{8} (2020) 015}, \href{http://arxiv.org/abs/1712.09542}{{\arxivfont
-  arXiv:1712.09542 [hep-th]}}.
 
 \bibitem[TLJHG22]{Toledo2022}
 J.~Toledo, R.~Lipinski~Jusinskas, C.~A. Hernaski, and P.~R.~S. Gomes,
