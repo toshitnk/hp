@@ -10,6 +10,13 @@
 \providecommand{\arxivfont}{\tt}
 \begin{thebibliography}{GDMBVn22}
 
+\bibitem[AAF{\etalchar{+}}22]{Acharya2022}
+B.~S. Acharya, G.~Aldazabal, A.~Font, K.~Narain, and I.~G. Zadeh,
+  \emph{{Heterotic Strings on ${\mathbb T^3}/{\mathbb Z_2}$, Nikulin
+  involutions and M-theory}},
+  \href{http://arxiv.org/abs/2205.09764}{{\arxivfont arXiv:2205.09764
+  [hep-th]}}.
+
 \bibitem[ABB{\etalchar{+}}22]{Apolo:2022fya}
 L.~Apolo, A.~Belin, S.~Bintanja, A.~Castro, and C.~A. Keller, \emph{{Deforming
   Symmetric Product Orbifolds: A tale of moduli and higher spin currents}},
@@ -81,6 +88,12 @@ R.~L. P.~G. Amaral, V.~E.~R. Lemes, O.~S. Ventura, and L.~C.~Q. Vilar, \emph{{A
   \href{http://arxiv.org/abs/2205.02903}{{\arxivfont arXiv:2205.02903
   [hep-th]}}.
 
+\bibitem[AM22]{Avetisyan2022}
+M.~Y. Avetisyan and R.~L. Mkrtchyan, \emph{{On refined Chern-Simons /
+  topological string duality for classical gauge groups}},
+  \href{http://arxiv.org/abs/2205.12832}{{\arxivfont arXiv:2205.12832
+  [hep-th]}}.
+
 \bibitem[Amb22]{Ambjorn:2022btk}
 J.~Ambjorn, \emph{{Elementary Quantum Geometry}},
   \href{http://arxiv.org/abs/2204.00859}{{\arxivfont arXiv:2204.00859
@@ -95,6 +108,11 @@ P.~C. Argyres, M.~Martone, and M.~Ray, \emph{{Dirac pairings, one-form
 \bibitem[AT22]{Ashok:2022thd}
 S.~K. Ashok and J.~Troost, \emph{{Path Integrals on sl(2,R) Orbits}},
   \href{http://arxiv.org/abs/2204.00232}{{\arxivfont arXiv:2204.00232
+  [hep-th]}}.
+
+\bibitem[Bau20]{Baulieu2020}
+L.~Baulieu, \emph{{Unimodular Gauge and ADM Gravity Path Integral}},
+  \href{http://arxiv.org/abs/2012.01116}{{\arxivfont arXiv:2012.01116
   [hep-th]}}.
 
 \bibitem[BBSNT22]{Bhardwaj:2022yxj}
@@ -120,6 +138,11 @@ B.~Berche, T.~Ellis, Y.~Holovatch, and R.~Kenna,
   \doihref{http://dx.doi.org/10.48550/ARXIV.2204.04761}{\emph{Phase transitions
   above the upper critical dimension}}, 2022.
   \url{https://arxiv.org/abs/2204.04761}.
+
+\bibitem[BGGL22]{Barrat2022}
+J.~Barrat, A.~Gimenez-Grau, and P.~Liendo, \emph{{A dispersion relation for
+  defect CFT}}, \href{http://arxiv.org/abs/2205.09765}{{\arxivfont
+  arXiv:2205.09765 [hep-th]}}.
 
 \bibitem[BH12]{Blagojevic2012}
 M.~Blagojevic and F.~W. Hehl, \emph{{Gauge Theories of Gravitation}},
@@ -314,6 +337,19 @@ L.~J. Dixon, J.~A. Harvey, C.~Vafa, and E.~Witten, \emph{{Strings on
   \doihref{http://dx.doi.org/10.1016/0550-3213(86)90287-7}{Nucl. Phys. B
   \textbf{274} (1986) 285--314}.
 
+\bibitem[DLDF22]{DeLima2022}
+W.~B. De~Lima and P.~De~Fabritiis, \emph{{Vortices in a parity-invariant
+  Maxwell-Chern-Simons model}},
+  \href{http://arxiv.org/abs/2205.10427}{{\arxivfont arXiv:2205.10427
+  [hep-th]}}.
+
+\bibitem[DW14]{Dedushenko2016}
+M.~Dedushenko and E.~Witten, \emph{Some details on the gopakumar-vafa and
+  ooguri-vafa formulas},
+  \doihref{http://dx.doi.org/10.4310/ATMP.2016.v20.n1.a1}{Adv. Theor. Math.
+  Phys. \textbf{20} (2016) 1--133},
+  \href{http://arxiv.org/abs/1411.7108}{{\arxivfont arXiv:1411.7108 [hep-th]}}.
+
 \bibitem[EFSS22]{Ebert:2022xfh}
 S.~Ebert, C.~Ferko, H.-Y. Sun, and Z.~Sun, \emph{{$T \overline{T}$ Deformations
   of Supersymmetric Quantum Mechanics}},
@@ -347,6 +383,12 @@ M.~Futaki and H.~Kajiura, \emph{{Homological mirror symmetry of $\mathbb{C}P^n$
   \doihref{http://dx.doi.org/10.1063/5.0029165}{J. Math. Phys. \textbf{62}
   (2021) 032307}, \href{http://arxiv.org/abs/2008.13462}{{\arxivfont
   arXiv:2008.13462 [math.SG]}}.
+
+\bibitem[FM21]{Fan2022}
+Y.~Fan and T.~G. Mertens, \emph{{From quantum groups to Liouville and dilaton
+  quantum gravity}}, \doihref{http://dx.doi.org/10.1007/JHEP05(2022)092}{JHEP
+  \textbf{05} (2022) 092}, \href{http://arxiv.org/abs/2109.07770}{{\arxivfont
+  arXiv:2109.07770 [hep-th]}}.
 
 \bibitem[FS22]{Fosco:2022dhg}
 C.~D. Fosco and F.~A. Schaposnik, \emph{{Induced Chern-Simons term by
@@ -449,6 +491,12 @@ S.~He, \emph{{Note on higher-point correlation functions of the $T\bar T$ or
   \href{http://arxiv.org/abs/2012.06202}{{\arxivfont arXiv:2012.06202
   [hep-th]}}.
 
+\bibitem[HHJM22]{Hinterbichler2022}
+K.~Hinterbichler, D.~M. Hofman, A.~Joyce, and G.~Mathys, \emph{{Gravity as a
+  gapless phase and biform symmetries}},
+  \href{http://arxiv.org/abs/2205.12272}{{\arxivfont arXiv:2205.12272
+  [hep-th]}}.
+
 \bibitem[HKP22]{Hessam:2022gaw}
 H.~Hessam, M.~Khalkhali, and N.~Pagliaroli, \emph{{From Noncommutative Geometry
   to Random Matrix Theory}}, \href{http://arxiv.org/abs/2204.14216}{{\arxivfont
@@ -540,6 +588,12 @@ O.~Kidwai and K.~Osuga, \emph{{Quantum curves from refined topological
   \href{http://arxiv.org/abs/2204.12431}{{\arxivfont arXiv:2204.12431
   [math.AG]}}.
 
+\bibitem[KOW22]{Kidambi2022}
+A.~Kidambi, M.~Okada, and T.~Watari, \emph{{Towards Hodge Theoretic
+  Characterizations of 2d Rational SCFTs}},
+  \href{http://arxiv.org/abs/2205.10299}{{\arxivfont arXiv:2205.10299
+  [hep-th]}}.
+
 \bibitem[KOZ21]{Kaidi:2021xfk}
 J.~Kaidi, K.~Ohmori, and Y.~Zheng, \emph{{Kramers-Wannier-like Duality Defects
   in (3+1)D Gauge Theories}},
@@ -605,6 +659,12 @@ B.~Le~Floch, \emph{{A slow review of the AGT correspondence}},
   \href{http://arxiv.org/abs/2006.14025}{{\arxivfont arXiv:2006.14025
   [hep-th]}}.
 
+\bibitem[LHYO22]{Li2022}
+L.~Li, C.-T. Hsieh, Y.~Yao, and M.~Oshikawa, \emph{{Boundary conditions and
+  anomalies of conformal field theories in 1+1 dimensions}},
+  \href{http://arxiv.org/abs/2205.11190}{{\arxivfont arXiv:2205.11190
+  [hep-th]}}.
+
 \bibitem[Li21]{Li2021}
 W.~Li, \emph{{Ising model close to $d=2$}},
   \href{http://arxiv.org/abs/2107.13679}{{\arxivfont arXiv:2107.13679
@@ -633,6 +693,11 @@ E.~Lupercio and B.~Uribe, \emph{{Topological quantum field theories, strings,
   and orbifolds}}, \href{http://arxiv.org/abs/hep-th/0605255}{{\arxivfont
   arXiv:hep-th/0605255}}.
 
+\bibitem[Met21]{Metaxas2021}
+D.~Metaxas, \emph{{A proposal for the Yang-Mills vacuum and mass gap}},
+  \href{http://arxiv.org/abs/2109.13990}{{\arxivfont arXiv:2109.13990
+  [hep-th]}}.
+
 \bibitem[Miy22]{Miyakawa:2022qbz}
 Y.~Miyakawa, \emph{{Axial anomaly in the gradient flow exact renormalization
   group}}, \href{http://arxiv.org/abs/2201.08181}{{\arxivfont arXiv:2201.08181
@@ -643,6 +708,11 @@ M.~Marino, R.~Miravitllas, and T.~Reis, \emph{{Instantons, renormalons and the
   theta angle in integrable sigma models}},
   \href{http://arxiv.org/abs/2205.04495}{{\arxivfont arXiv:2205.04495
   [hep-th]}}.
+
+\bibitem[MS22]{Morano2022}
+A.~Morano and O.~Santill\'an, \emph{{Fermion dynamics in presence of non
+  abelian monopoles}}, \href{http://arxiv.org/abs/2205.10296}{{\arxivfont
+  arXiv:2205.10296 [hep-th]}}.
 
 \bibitem[MT11]{Moore:2011ee}
 G.~W. Moore and Y.~Tachikawa, \emph{{On 2d TQFTs whose values are holomorphic
@@ -682,6 +752,18 @@ T.~Nishioka, Y.~Okuyama, and S.~Shimamori, \emph{{Method of images in defect
   \href{http://arxiv.org/abs/2205.05370}{{\arxivfont arXiv:2205.05370
   [hep-th]}}.
 
+\bibitem[NW21a]{Noshita2022}
+G.~Noshita and A.~Watanabe, \emph{{A note on quiver quantum toroidal algebra}},
+  \doihref{http://dx.doi.org/10.1007/JHEP05(2022)011}{JHEP \textbf{05} (2022)
+  011}, \href{http://arxiv.org/abs/2108.07104}{{\arxivfont arXiv:2108.07104
+  [hep-th]}}.
+
+\bibitem[NW21b]{Noshita2022a}
+\bysame, \emph{{Shifted quiver quantum toroidal algebra and subcrystal
+  representations}}, \doihref{http://dx.doi.org/10.1007/JHEP05(2022)122}{JHEP
+  \textbf{05} (2022) 122}, \href{http://arxiv.org/abs/2109.02045}{{\arxivfont
+  arXiv:2109.02045 [hep-th]}}.
+
 \bibitem[NY21]{nunotani2021clebsch}
 K.~Nunotani and Z.~Yoshida, \emph{Clebsch representation of relativistic plasma
   and generalized enstrophy}, 2021.
@@ -698,6 +780,11 @@ P.~Oak and B.~Sathiapalan, \emph{{Exact Renormalization Group and Sine Gordon
   Theory}}, \doihref{http://dx.doi.org/10.1007/JHEP07(2017)103}{JHEP
   \textbf{07} (2017) 103}, \href{http://arxiv.org/abs/1703.01591}{{\arxivfont
   arXiv:1703.01591 [hep-th]}}. [Erratum: JHEP 09, 077 (2017)].
+
+\bibitem[OS22]{Okuma2022}
+N.~Okuma and M.~Sato, \emph{{Non-Hermitian topological phenomena: A review}},
+  \href{http://arxiv.org/abs/2205.10379}{{\arxivfont arXiv:2205.10379
+  [cond-mat.mes-hall]}}.
 
 \bibitem[Osu21]{Osuga2022}
 K.~Osuga, \emph{{Super Topological Recursion and Gaiotto Vectors For
@@ -741,6 +828,11 @@ T.~Pantev, D.~Robbins, E.~Sharpe, and T.~Vandermeulen, \emph{{Orbifolds by
   2-groups and decomposition}},
   \href{http://arxiv.org/abs/2204.13708}{{\arxivfont arXiv:2204.13708
   [hep-th]}}.
+
+\bibitem[PSA22]{Pinet2022}
+T.~Pinet and Y.~Saint-Aubin, \emph{{Spin chains as modules over the affine
+  Temperley-Lieb algebra}}, \href{http://arxiv.org/abs/2205.02649}{{\arxivfont
+  arXiv:2205.02649 [math.RT]}}.
 
 \bibitem[PSD22]{Poland:2022qrs}
 D.~Poland and D.~Simmons-Duffin, \emph{{Snowmass White Paper: The Numerical
@@ -843,6 +935,17 @@ A.~Smilga, \emph{{Comments on noncommutative quantum mechanical systems
   associated with Lie algebras}},
   \href{http://arxiv.org/abs/2204.08705}{{\arxivfont arXiv:2204.08705
   [hep-th]}}.
+
+\bibitem[ST22a]{Sonnenschein2022}
+J.~Sonnenschein and M.~Tsulaia, \emph{{A Note on Shape Invariant Potentials for
+  Discretized Hamiltonians}},
+  \href{http://arxiv.org/abs/2205.10100}{{\arxivfont arXiv:2205.10100
+  [quant-ph]}}.
+
+\bibitem[ST22b]{Suzuki:2022yru}
+Y.-k. Suzuki and S.~Terashima, \emph{On the dynamics in the ads/bcft
+  correspondence}, \href{http://arxiv.org/abs/2205.10600}{{\arxivfont
+  arXiv:2205.10600 [hep-th]}}.
 
 \bibitem[Sto22]{Stoica:2022xvj}
 O.~C. Stoica, \emph{{The Problem of Irreversible Change in Quantum Mechanics}},
@@ -975,6 +1078,11 @@ J.~Wang, X.-G. Wen, and E.~Witten, \emph{{A New SU(2) Anomaly}},
   (2019) 052301}, \href{http://arxiv.org/abs/1810.00844}{{\arxivfont
   arXiv:1810.00844 [hep-th]}}.
 
+\bibitem[WXZ22]{Wu2022}
+Y.~Wu, K.-P. Xie, and Y.-L. Zhou, \emph{{Classification of Abelian domain
+  walls}}, \href{http://arxiv.org/abs/2205.11529}{{\arxivfont arXiv:2205.11529
+  [hep-ph]}}.
+
 \bibitem[Yam22]{Yamazaki2022}
 M.~Yamazaki, \doihref{http://dx.doi.org/10.48550/ARXIV.2203.14314}{\emph{Quiver
   yangians and crystal melting: A concise summary}}, 2022.
@@ -988,6 +1096,12 @@ M.~Yamada and K.~Yonekura, \emph{{Cosmic strings from pure Yang-Mills theory}},
 \bibitem[YY22b]{Yamada:2022aax}
 \bysame, \emph{{Cosmic F- and D-strings from pure Yang-Mills theory}},
   \href{http://arxiv.org/abs/2204.13125}{{\arxivfont arXiv:2204.13125
+  [hep-th]}}.
+
+\bibitem[Zuc22]{Zucchini2022}
+R.~Zucchini, \emph{{Quantum field theoretic representation of Wilson surfaces:
+  I higher coadjoint orbit theory}},
+  \href{http://arxiv.org/abs/2205.12320}{{\arxivfont arXiv:2205.12320
   [hep-th]}}.
 
 \end{thebibliography}
