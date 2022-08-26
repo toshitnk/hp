@@ -20,3 +20,9 @@ table{
 	border-collapse: collapse;
 	margin: 3px auto;
 }
+tr:nth-child(even){
+background-color: #EEEEEE;
+}
+thead{
+background-color: #EEEEEE;
+}
